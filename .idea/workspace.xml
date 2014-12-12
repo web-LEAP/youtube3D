@@ -1,0 +1,1226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2529b72d-e3b6-4aca-b981-3eb9201abc03" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addon/3dfox/data/abc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addon/3dfox/data/abcd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leap/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leap/showhand.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addon/3dfox/data/display_hand.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addon/3dfox/data/h.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addon/3dfox/data/icon-32.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addon/3dfox/data/icon-64.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addon/3dfox/data/leap.rigged_hand.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addon/3dfox/data/leap_plugins.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/diffpatcher/.travis.yml" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/diffpatcher/.travis.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/method/.travis.yml" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/method/.travis.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/diffpatcher/History.md" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/diffpatcher/History.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/method/History.md" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/method/History.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/simplejson/LICENSE.txt" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/simplejson/LICENSE.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/LICENSE" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/system/child_process/LICENSE" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/system/child_process/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/diffpatcher/License.md" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/diffpatcher/License.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/method/License.md" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/method/License.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/examples/annotator/README.md" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/examples/annotator/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/examples/library-detector/README.md" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/examples/library-detector/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/examples/reddit-panel/README.md" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/examples/reddit-panel/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/README" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/README" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/diffpatcher/Readme.md" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/diffpatcher/Readme.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/method/Readme.md" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/method/Readme.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/jsm-package/Test.jsm" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/jsm-package/Test.jsm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/__init__.py" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/__init__.py" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/mozrunner/__init__.py" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/mozrunner/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/simplejson/__init__.py" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/simplejson/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/_version.py" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/_version.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/require/multiple/a.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/require/multiple/a.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/loader/cycles/a.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/loader/cycles/a.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/native-addon-test/dir/a.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/native-addon-test/dir/a.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/ui/button/action.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/ui/button/action.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/ui/sidebar/actions.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/ui/sidebar/actions.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/bin/activate.fish" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/bin/activate.fish" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/bin/activate.ps1" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/bin/activate.ps1" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/bin/activate" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/bin/activate" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/modules/add.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/modules/add.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/chrome-worker/addEventListener.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/chrome-worker/addEventListener.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/addon-page.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/addon-page.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/examples/annotator/data/editor/annotation-editor.html" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/examples/annotator/data/editor/annotation-editor.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/examples/annotator/data/editor/annotation-editor.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/examples/annotator/data/editor/annotation-editor.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/examples/annotator/data/list/annotation-list.css" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/examples/annotator/data/list/annotation-list.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/examples/annotator/data/list/annotation-list.html" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/examples/annotator/data/list/annotation-list.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/examples/annotator/data/list/annotation-list.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/examples/annotator/data/list/annotation-list.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/examples/annotator/data/annotation/annotation.html" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/examples/annotator/data/annotation/annotation.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/examples/annotator/data/annotation/annotation.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/examples/annotator/data/annotation/annotation.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/deprecated/api-utils.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/deprecated/api-utils.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/app-extension/application.ini" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/app-extension/application.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/l10n-properties/app-extension/application.ini" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/l10n-properties/app-extension/application.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/simple-prefs-regression/app-extension/application.ini" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/simple-prefs-regression/app-extension/application.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/util/array.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/util/array.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/deprecated/events/assembler.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/deprecated/events/assembler.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/test/assert.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/test/assert.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/traits/assert.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/traits/assert.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/commonjs-test-adapter/asserts.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/commonjs-test-adapter/asserts.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/modules/async1.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/modules/async1.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/modules/async2.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/modules/async2.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/require/multiple/b.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/require/multiple/b.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/loader/cycles/b.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/loader/cycles/b.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/native-addon-test/dir/b.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/native-addon-test/dir/b.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/modules/badExportAndReturn.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/modules/badExportAndReturn.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/modules/badFirst.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/modules/badFirst.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/modules/badSecond.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/modules/badSecond.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/e10s-adapter-files/packages/foo/lib/bar-e10s-adapter.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/e10s-adapter-files/packages/foo/lib/bar-e10s-adapter.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-588661-files/packages/bar/lib/bar-loader.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-588661-files/packages/bar/lib/bar-loader.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/static-files/packages/barbeque/lib/bar-module.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/static-files/packages/barbeque/lib/bar-module.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/e10s-adapter-files/packages/foo/lib/bar.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/e10s-adapter-files/packages/foo/lib/bar.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/base64.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/base64.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/modules/blue.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/modules/blue.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/places/bookmarks.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/places/bookmarks.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/loader/errors/boomer.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/loader/errors/boomer.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/loader/exceptions/boomer.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/loader/exceptions/boomer.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/app-extension/bootstrap.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/app-extension/bootstrap.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/mobile-utils/bootstrap.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/mobile-utils/bootstrap.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/l10n-properties/app-extension/bootstrap.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/l10n-properties/app-extension/bootstrap.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/simple-prefs-regression/app-extension/bootstrap.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/simple-prefs-regression/app-extension/bootstrap.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/method/test/browser.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/method/test/browser.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/input/browser.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/input/browser.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/window/browser.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/window/browser.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/io/buffer.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/io/buffer.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/bin/integration-scripts/buildbot-run-cfx-helper" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/bin/integration-scripts/buildbot-run-cfx-helper" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/bunch.py" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/bunch.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/io/byte-streams.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/io/byte-streams.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/loader/cycles/c.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/loader/cycles/c.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/native-addon-test/dir/c.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/native-addon-test/dir/c.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/modules/castor.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/modules/castor.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/modules/types/cat.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/modules/types/cat.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/bin/cfx" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/bin/cfx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/modules/cheetah.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/modules/cheetah.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/child-process-scripts.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/child-process-scripts.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/system/child_process.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/system/child_process.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/event/chrome.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/event/chrome.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/chrome/chrome.manifest" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/chrome/chrome.manifest" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/clipboard.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/clipboard.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/util/collection.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/util/collection.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/modules/color.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/modules/color.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/diffpatcher/test/common.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/diffpatcher/test/common.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/method/test/common.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/method/test/common.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/tabs/common.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/tabs/common.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/content/content-worker.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/content/content-worker.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/content/content.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/content/content.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/context-menu.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/context-menu.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/places/contract.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/places/contract.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/ui/button/contract.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/ui/button/contract.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/ui/sidebar/contract.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/ui/sidebar/contract.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/util/contract.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/util/contract.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contributors.txt" afterPath="$PROJECT_DIR$/contributors.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/method/core.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/method/core.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/deprecated/traits/core.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/deprecated/traits/core.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/event/core.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/event/core.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/l10n/core.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/l10n/core.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/l10n/json/core.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/l10n/json/core.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/l10n/properties/core.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/l10n/properties/core.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/model/core.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/model/core.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/view/core.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/view/core.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/deprecated/cortex.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/deprecated/cortex.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/css-include-file.css" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/css-include-file.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/loader/cuddlefish.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/loader/cuddlefish.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/native-addon-test/node_modules/test-custom-main-relative/lib/custom-entry.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/native-addon-test/node_modules/test-custom-main-relative/lib/custom-entry.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/native-addon-test/node_modules/test-custom-main/lib/custom-entry.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/native-addon-test/node_modules/test-custom-main/lib/custom-entry.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/input/customizable-ui.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/input/customizable-ui.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/io/data.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/io/data.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/self/data/data.md" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/self/data/data.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/simplejson/decoder.py" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/simplejson/decoder.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/util/deprecate.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/util/deprecate.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/chrome/chrome/locale/en-US/description.properties" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/chrome/chrome/locale/en-US/description.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/chrome/chrome/locale/ja-JP/description.properties" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/chrome/chrome/locale/ja-JP/description.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/traits/descriptor-tests.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/traits/descriptor-tests.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/diffpatcher/diff.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/diffpatcher/diff.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/diffpatcher/test/diff.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/diffpatcher/test/diff.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/util/dispatcher.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/util/dispatcher.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/core/disposable.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/core/disposable.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/event/dom.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/event/dom.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/windows/dom.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/windows/dom.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/native-addon-test/dir/dummy.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/native-addon-test/dir/dummy.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/modules/dupe.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/modules/dupe.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/modules/dupeNested.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/modules/dupeNested.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/modules/dupeSetExports.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/modules/dupeSetExports.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/l10n-properties/app-extension/locale/en-GB.properties" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/l10n-properties/app-extension/locale/en-GB.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/l10n/locale/en-GB.properties" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/l10n/locale/en-GB.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/l10n-properties/app-extension/locale/en-US.properties" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/l10n-properties/app-extension/locale/en-US.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/simple-prefs-l10n/locale/en.properties" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/simple-prefs-l10n/locale/en.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/simplejson/encoder.py" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/simplejson/encoder.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/system/environment.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/system/environment.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/l10n-properties/app-extension/locale/eo.properties" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/l10n-properties/app-extension/locale/eo.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/l10n/locale/eo.properties" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/l10n/locale/eo.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/loader/syntax-error/error.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/loader/syntax-error/error.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/deprecated/errors.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/deprecated/errors.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/es5.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/es5.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/preferences/event-target.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/preferences/event-target.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/addon/events.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/addon/events.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/browser/events.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/browser/events.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/content/events.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/content/events.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/deprecated/events.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/deprecated/events.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/dom/events.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/dom/events.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/panel/events.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/panel/events.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/places/events.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/places/events.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/system/events.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/system/events.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/tab/events.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/tab/events.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/tabs/events.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/tabs/events.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/ui/button/view/events.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/ui/button/view/events.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/ui/state/events.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/ui/state/events.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/window/events.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/window/events.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/native-addon-test/expectedmap.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/native-addon-test/expectedmap.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/modules/exportsEquals.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/modules/exportsEquals.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/places/favicon-helpers.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/places/favicon-helpers.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/places/favicon.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/places/favicon.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/windows/fennec.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/windows/fennec.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/loader/unsupported/fennec.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/loader/unsupported/fennec.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/io/file.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/io/file.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/native-addon-test/newmodule/lib/file.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/native-addon-test/newmodule/lib/file.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/loader/missing-twice/file.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/loader/missing-twice/file.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/windows/firefox.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/windows/firefox.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/loader/unsupported/firefox.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/loader/unsupported/firefox.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/loader/fixture.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/loader/fixture.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-588661-files/packages/foo/lib/foo-loader.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-588661-files/packages/foo/lib/foo-loader.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-614712-files/packages/commonjs-naming/lib/foo-loader.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-614712-files/packages/commonjs-naming/lib/foo-loader.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-614712-files/packages/original-naming/lib/foo-loader.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-614712-files/packages/original-naming/lib/foo-loader.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-652227-files/packages/default-lib/lib/foo.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-652227-files/packages/default-lib/lib/foo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-652227-files/packages/default-root/foo.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-652227-files/packages/default-root/foo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-652227-files/packages/explicit-dir-lib/alt-lib/foo.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-652227-files/packages/explicit-dir-lib/alt-lib/foo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-652227-files/packages/explicit-lib/alt2-lib/foo.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-652227-files/packages/explicit-lib/alt2-lib/foo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/e10s-adapter-files/packages/foo/lib/foo.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/e10s-adapter-files/packages/foo/lib/foo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/linker-files/three-deps/three-c/lib/sub/foo.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/linker-files/three-deps/three-c/lib/sub/foo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-614712-files/packages/commonjs-naming/doc/foo.md" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-614712-files/packages/commonjs-naming/doc/foo.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-614712-files/packages/original-naming/docs/foo.md" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-614712-files/packages/original-naming/docs/foo.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-652227-files/packages/default-lib/doc/foo.md" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-652227-files/packages/default-lib/doc/foo.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-652227-files/packages/default-root/doc/foo.md" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-652227-files/packages/default-root/doc/foo.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-652227-files/packages/explicit-dir-lib/doc/foo.md" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-652227-files/packages/explicit-dir-lib/doc/foo.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-652227-files/packages/explicit-lib/doc/foo.md" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-652227-files/packages/explicit-lib/doc/foo.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/linker-files/three-deps/three-a/locale/fr-FR.properties" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/linker-files/three-deps/three-a/locale/fr-FR.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/linker-files/three-deps/three-b/locale/fr-FR.properties" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/linker-files/three-deps/three-b/locale/fr-FR.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/linker-files/three-deps/three-c/locale/fr-FR.properties" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/linker-files/three-deps/three-c/locale/fr-FR.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/l10n-properties/app-extension/locale/fr-FR.properties" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/l10n-properties/app-extension/locale/fr-FR.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/l10n/locale/fr-FR.properties" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/l10n/locale/fr-FR.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/input/frame.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/input/frame.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/ui/frame.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/ui/frame.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/io/fs.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/io/fs.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/lang/functional.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/lang/functional.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/private-browsing/global.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/private-browsing/global.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/system/globals.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/system/globals.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/modules/green.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/modules/green.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/test/harness.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/test/harness.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/static-files/xpi-template/components/harness.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/static-files/xpi-template/components/harness.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/private-browsing/helper.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/private-browsing/helper.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/tabs/helpers.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/tabs/helpers.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/window/helpers.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/window/helpers.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/event/helpers.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/event/helpers.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/core/heritage.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/core/heritage.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/frame/hidden-frame.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/frame/hidden-frame.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/places/history.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/places/history.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/places/host/host-bookmarks.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/places/host/host-bookmarks.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/places/host/host-query.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/places/host/host-query.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/places/host/host-tags.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/places/host/host-tags.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/addon/host.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/addon/host.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/hotkeys.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/hotkeys.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/keyboard/hotkeys.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/keyboard/hotkeys.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/l10n/html.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/l10n/html.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/test/httpd.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/test/httpd.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/ui/id.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/ui/id.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/static-files/packages/aardvark/lib/ignore_me" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/static-files/packages/aardvark/lib/ignore_me" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/static-files/packages/aardvark/lib/surprise.js/ignore_me_too" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/static-files/packages/aardvark/lib/surprise.js/ignore_me_too" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/examples/toolbar-api/data/index.html" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/examples/toolbar-api/data/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/addon-page/data/index.html" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/addon-page/data/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/page-mod-debugger-post/data/index.html" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/page-mod-debugger-post/data/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/page-mod-debugger-pre/data/index.html" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/page-mod-debugger-pre/data/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/privileged-panel/data/index.html" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/privileged-panel/data/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/index.html" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/diffpatcher/index.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/diffpatcher/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/diffpatcher/test/index.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/diffpatcher/test/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/child_process/index.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/child_process/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/jsm-package/index.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/jsm-package/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/native-addon-test/index.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/native-addon-test/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/native-addon-test/dir/a/index.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/native-addon-test/dir/a/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/native-addon-test/newmodule/index.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/native-addon-test/newmodule/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/native-addon-test/node_modules/test-default-main/index.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/native-addon-test/node_modules/test-default-main/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/native-addon-test/node_modules/test-math/index.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/native-addon-test/node_modules/test-math/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/native-addon-test/node_modules/test-math/node_modules/test-add/index.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/native-addon-test/node_modules/test-math/node_modules/test-add/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/native-addon-test/node_modules/test-math/node_modules/test-subtract/index.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/native-addon-test/node_modules/test-math/node_modules/test-subtract/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/native-addon-test/utils/index.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/native-addon-test/utils/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/indexed-db.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/indexed-db.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/traits/inheritance-tests.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/traits/inheritance-tests.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/app-extension/install.rdf" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/app-extension/install.rdf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/mobile-utils/install.rdf" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/mobile-utils/install.rdf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/l10n-properties/app-extension/install.rdf" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/l10n-properties/app-extension/install.rdf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/simple-prefs-regression/app-extension/install.rdf" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/simple-prefs-regression/app-extension/install.rdf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/addon/installer.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/addon/installer.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/bin/integration-scripts/integration-check" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/bin/integration-scripts/integration-check" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/loader/json/invalid.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/loader/json/invalid.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/util/iteration.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/util/iteration.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/jetpack_sdk_env.py" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/jetpack_sdk_env.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/examples/annotator/data/jquery-1.4.2.min.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/examples/annotator/data/jquery-1.4.2.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/examples/reddit-panel/data/jquery-1.4.4.min.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/examples/reddit-panel/data/jquery-1.4.4.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/chrome-worker/jsctypes.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/chrome-worker/jsctypes.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/dom/events/keys.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/dom/events/keys.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/mozrunner/killableprocess.py" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/mozrunner/killableprocess.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/l10n.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/l10n.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/examples/library-detector/data/library-detector.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/examples/library-detector/data/library-detector.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/deprecated/light-traits.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/deprecated/light-traits.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/modules/lion.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/modules/lion.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/deprecated/list.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/deprecated/list.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/util/list.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/util/list.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/content/loader.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/content/loader.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/l10n/loader.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/l10n/loader.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/test/loader.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/test/loader.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/windows/loader.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/windows/loader.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/toolkit/loader.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/toolkit/loader.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-652227-files/packages/default-lib/lib/loader.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-652227-files/packages/default-lib/lib/loader.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-652227-files/packages/default-root/loader.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-652227-files/packages/default-root/loader.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-652227-files/packages/explicit-dir-lib/alt-lib/loader.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-652227-files/packages/explicit-dir-lib/alt-lib/loader.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-652227-files/packages/explicit-lib/alt2-lib/loader.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-652227-files/packages/explicit-lib/alt2-lib/loader.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/static-files/packages/api-utils/lib/loader.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/static-files/packages/api-utils/lib/loader.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/l10n/locale.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/l10n/locale.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addon/3dfox/lib/main.js" afterPath="$PROJECT_DIR$/addon/3dfox/lib/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/examples/annotator/lib/main.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/examples/annotator/lib/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/examples/library-detector/lib/main.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/examples/library-detector/lib/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/examples/reading-data/lib/main.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/examples/reading-data/lib/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/examples/reddit-panel/lib/main.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/examples/reddit-panel/lib/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/examples/toolbar-api/lib/main.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/examples/toolbar-api/lib/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/addons/simplest-test/main.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/addons/simplest-test/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-588119-files/packages/explicit-icon/lib/main.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-588119-files/packages/explicit-icon/lib/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-588119-files/packages/implicit-icon/lib/main.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-588119-files/packages/implicit-icon/lib/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-588119-files/packages/no-icon/lib/main.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-588119-files/packages/no-icon/lib/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-611495-files/jspath-one/lib/main.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-611495-files/jspath-one/lib/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-669274-files/packages/extra-options/lib/main.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-669274-files/packages/extra-options/lib/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/linker-files/five/lib/main.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/linker-files/five/lib/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/linker-files/four-deps/four-a/topfiles/main.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/linker-files/four-deps/four-a/topfiles/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/linker-files/four/lib/main.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/linker-files/four/lib/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/linker-files/one/lib/main.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/linker-files/one/lib/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/linker-files/seven/lib/main.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/linker-files/seven/lib/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/linker-files/three-deps/three-a/lib/main.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/linker-files/three-deps/three-a/lib/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/linker-files/three-deps/three-b/lib/main.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/linker-files/three-deps/three-b/lib/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/linker-files/three-deps/three-c/lib/main.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/linker-files/three-deps/three-c/lib/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/linker-files/three/lib/main.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/linker-files/three/lib/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/preferences-files/packages/curly-id/lib/main.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/preferences-files/packages/curly-id/lib/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/preferences-files/packages/no-prefs/lib/main.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/preferences-files/packages/no-prefs/lib/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/preferences-files/packages/preferences-branch/lib/main.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/preferences-files/packages/preferences-branch/lib/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/preferences-files/packages/simple-prefs/lib/main.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/preferences-files/packages/simple-prefs/lib/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/static-files/packages/aardvark/lib/main.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/static-files/packages/aardvark/lib/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/static-files/packages/anteater_files/lib/main.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/static-files/packages/anteater_files/lib/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/static-files/packages/minimal/lib/main.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/static-files/packages/minimal/lib/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/addon-page/main.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/addon-page/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/chrome/main.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/chrome/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/content-permissions/main.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/content-permissions/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/contributors/main.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/contributors/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/curly-id/lib/main.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/curly-id/lib/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/l10n/main.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/l10n/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/l10n-properties/main.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/l10n-properties/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/layout-change/main.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/layout-change/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/main/main.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/main/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/packed/main.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/packed/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/page-mod-debugger-post/main.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/page-mod-debugger-post/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/page-mod-debugger-pre/main.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/page-mod-debugger-pre/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/places/main.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/places/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/predefined-id-with-at/lib/main.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/predefined-id-with-at/lib/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/preferences-branch/lib/main.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/preferences-branch/lib/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/private-browsing-supported/main.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/private-browsing-supported/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/privileged-panel/main.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/privileged-panel/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/require/main.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/require/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/require/packages/tabs/main.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/require/packages/tabs/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/self/main.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/self/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/simple-prefs-l10n/main.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/simple-prefs-l10n/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/simple-prefs-regression/lib/main.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/simple-prefs-regression/lib/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/simple-prefs/lib/main.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/simple-prefs/lib/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/standard-id/lib/main.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/standard-id/lib/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/symbiont/main.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/symbiont/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/tab-close-on-startup/main.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/tab-close-on-startup/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/translators/main.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/translators/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/unpacked/main.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/unpacked/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/unsafe-content-script/main.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/unsafe-content-script/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/loader/cycles/main.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/loader/cycles/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/loader/errors/main.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/loader/errors/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/loader/exceptions/main.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/loader/exceptions/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/loader/globals/main.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/loader/globals/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/loader/missing/main.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/loader/missing/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/loader/missing-twice/main.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/loader/missing-twice/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/loader/self/main.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/loader/self/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/loader/syntax-error/main.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/loader/syntax-error/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-611495-files/jspath-one/docs/main.md" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-611495-files/jspath-one/docs/main.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-669274-files/packages/extra-options/docs/main.md" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-669274-files/packages/extra-options/docs/main.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/addons/simplest-test/manifest-overload.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/addons/simplest-test/manifest-overload.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/loader/json/manifest.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/loader/json/manifest.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/manifest.py" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/manifest.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/mapping.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/mapping.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/page-mod/match-pattern.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/page-mod/match-pattern.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/util/match-pattern.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/util/match-pattern.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/examples/annotator/data/matcher.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/examples/annotator/data/matcher.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/deprecated/memory.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/deprecated/memory.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/test/memory.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/test/memory.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/require/memory.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/require/memory.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/linker-files/four-deps/four-a/lib/misc.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/linker-files/four-deps/four-a/lib/misc.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/content/mod.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/content/mod.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/ui/frame/model.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/ui/frame/model.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/ui/toolbar/model.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/ui/toolbar/model.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/require/sub-folder/module.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/require/sub-folder/module.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/mofo_logo.SVG" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/mofo_logo.SVG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/linker-files/three/data/msg.txt" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/linker-files/three/data/msg.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/core/namespace.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/core/namespace.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/tabs/namespace.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/tabs/namespace.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/ui/sidebar/namespace.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/ui/sidebar/namespace.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/window/namespace.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/window/namespace.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/chrome/chrome/content/new-window.xul" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/chrome/chrome/content/new-window.xul" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/loader/json/nodotjson.json.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/loader/json/nodotjson.json.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/linker-files/three/tests/nontest.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/linker-files/three/tests/nontest.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/notifications.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/notifications.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/traits/object-tests.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/traits/object-tests.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/util/object.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/util/object.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/core/observer.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/core/observer.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/keyboard/observer.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/keyboard/observer.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/tabs/observer.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/tabs/observer.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/windows/observer.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/windows/observer.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/chrome-worker/onerror.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/chrome-worker/onerror.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/chrome-worker/onmessage.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/chrome-worker/onmessage.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/simple-prefs-regression/app-extension/options.xul" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/simple-prefs-regression/app-extension/options.xul" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/options_defaults.py" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/options_defaults.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/options_xul.py" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/options_xul.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/modules/orange.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/modules/orange.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/node/os.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/node/os.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addon/3dfox/package.json" afterPath="$PROJECT_DIR$/addon/3dfox/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/package.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/examples/annotator/package.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/examples/annotator/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/examples/library-detector/package.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/examples/library-detector/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/examples/reading-data/package.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/examples/reading-data/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/examples/reddit-panel/package.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/examples/reddit-panel/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/examples/toolbar-api/package.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/examples/toolbar-api/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/diffpatcher/package.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/diffpatcher/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/method/package.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/method/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/addons/simplest-test/package.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/addons/simplest-test/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-588119-files/packages/explicit-icon/package.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-588119-files/packages/explicit-icon/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-588119-files/packages/implicit-icon/package.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-588119-files/packages/implicit-icon/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-588119-files/packages/no-icon/package.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-588119-files/packages/no-icon/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-588661-files/packages/bar/package.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-588661-files/packages/bar/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-588661-files/packages/foo/package.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-588661-files/packages/foo/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-611495-files/jspath-one/package.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-611495-files/jspath-one/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-614712-files/packages/commonjs-naming/package.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-614712-files/packages/commonjs-naming/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-614712-files/packages/original-naming/package.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-614712-files/packages/original-naming/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-652227-files/packages/default-lib/package.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-652227-files/packages/default-lib/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-652227-files/packages/default-locale/package.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-652227-files/packages/default-locale/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-652227-files/packages/default-root/package.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-652227-files/packages/default-root/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-652227-files/packages/explicit-dir-lib/package.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-652227-files/packages/explicit-dir-lib/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-652227-files/packages/explicit-lib/package.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-652227-files/packages/explicit-lib/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-669274-files/packages/extra-options/package.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-669274-files/packages/extra-options/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-715340-files/pkg-1-pack/package.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-715340-files/pkg-1-pack/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-715340-files/pkg-2-unpack/package.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-715340-files/pkg-2-unpack/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-715340-files/pkg-3-pack/package.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-715340-files/pkg-3-pack/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-906359-files/fullName/package.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-906359-files/fullName/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-906359-files/none/package.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-906359-files/none/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-906359-files/title/package.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-906359-files/title/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/e10s-adapter-files/packages/foo/package.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/e10s-adapter-files/packages/foo/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/linker-files/five/package.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/linker-files/five/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/linker-files/four/package.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/linker-files/four/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/linker-files/four-deps/four-a/package.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/linker-files/four-deps/four-a/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/linker-files/one/package.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/linker-files/one/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/linker-files/seven/package.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/linker-files/seven/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/linker-files/six/package.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/linker-files/six/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/linker-files/three/package.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/linker-files/three/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/linker-files/three-deps/three-a/package.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/linker-files/three-deps/three-a/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/linker-files/three-deps/three-b/package.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/linker-files/three-deps/three-b/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/linker-files/three-deps/three-c/package.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/linker-files/three-deps/three-c/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/preferences-files/packages/curly-id/package.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/preferences-files/packages/curly-id/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/preferences-files/packages/no-prefs/package.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/preferences-files/packages/no-prefs/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/preferences-files/packages/preferences-branch/package.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/preferences-files/packages/preferences-branch/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/preferences-files/packages/simple-prefs/package.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/preferences-files/packages/simple-prefs/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/static-files/packages/aardvark/package.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/static-files/packages/aardvark/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/static-files/packages/anteater_files/package.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/static-files/packages/anteater_files/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/static-files/packages/api-utils/package.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/static-files/packages/api-utils/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/static-files/packages/barbeque/package.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/static-files/packages/barbeque/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/static-files/packages/minimal/package.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/static-files/packages/minimal/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/static-files/packages/third_party/package.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/static-files/packages/third_party/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/addon-page/package.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/addon-page/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/child_process/package.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/child_process/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/chrome/package.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/chrome/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/content-permissions/package.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/content-permissions/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/contributors/package.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/contributors/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/curly-id/package.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/curly-id/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/l10n/package.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/l10n/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/l10n-properties/package.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/l10n-properties/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/layout-change/package.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/layout-change/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/main/package.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/main/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/packed/package.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/packed/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/page-mod-debugger-post/package.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/page-mod-debugger-post/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/page-mod-debugger-pre/package.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/page-mod-debugger-pre/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/places/package.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/places/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/predefined-id-with-at/package.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/predefined-id-with-at/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/preferences-branch/package.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/preferences-branch/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/private-browsing-supported/package.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/private-browsing-supported/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/privileged-panel/package.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/privileged-panel/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/require/package.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/require/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/require/packages/tabs/package.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/require/packages/tabs/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/self/package.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/self/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/simple-prefs/package.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/simple-prefs/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/simple-prefs-l10n/package.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/simple-prefs-l10n/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/simple-prefs-regression/package.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/simple-prefs-regression/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/standard-id/package.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/standard-id/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/symbiont/package.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/symbiont/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/tab-close-on-startup/package.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/tab-close-on-startup/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/translators/package.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/translators/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/unpacked/package.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/unpacked/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/unsafe-content-script/package.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/unsafe-content-script/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/jsm-package/package.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/jsm-package/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/native-addon-test/package.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/native-addon-test/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/native-addon-test/newmodule/package.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/native-addon-test/newmodule/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/native-addon-test/node_modules/test-custom-main/package.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/native-addon-test/node_modules/test-custom-main/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/native-addon-test/node_modules/test-custom-main-relative/package.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/native-addon-test/node_modules/test-custom-main-relative/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/native-addon-test/node_modules/test-default-main/package.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/native-addon-test/node_modules/test-default-main/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/native-addon-test/node_modules/test-math/package.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/native-addon-test/node_modules/test-math/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/native-addon-test/node_modules/test-math/node_modules/test-add/package.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/native-addon-test/node_modules/test-math/node_modules/test-add/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/native-addon-test/node_modules/test-math/node_modules/test-subtract/package.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/native-addon-test/node_modules/test-math/node_modules/test-subtract/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/packaging.py" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/packaging.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/page-mod.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/page-mod.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/require/packages/tabs/page-mod.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/require/packages/tabs/page-mod.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/page-worker.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/page-worker.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/pagemod-test-helpers.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/pagemod-test-helpers.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/examples/library-detector/data/panel.html" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/examples/library-detector/data/panel.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/examples/reddit-panel/data/panel.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/examples/reddit-panel/data/panel.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/panel.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/panel.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/passwords.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/passwords.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/diffpatcher/patch.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/diffpatcher/patch.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/diffpatcher/test/patch.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/diffpatcher/test/patch.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/fs/path.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/fs/path.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/places/places-helper.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/places/places-helper.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/console/plain-text.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/console/plain-text.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/plural-rules-generator.py" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/plural-rules-generator.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/l10n/plural-rules.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/l10n/plural-rules.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/modules/pollux.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/modules/pollux.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/preflight.py" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/preflight.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/l10n/prefs.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/l10n/prefs.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/simple-prefs-regression/app-extension/defaults/preferences/prefs.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/simple-prefs-regression/app-extension/defaults/preferences/prefs.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/prefs.py" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/prefs.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/private-browsing.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/private-browsing.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/system/process.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/system/process.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/core/promise.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/core/promise.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/property_parser.py" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/property_parser.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/mozrunner/qijo.py" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/mozrunner/qijo.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/querystring.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/querystring.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/rdf.py" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/rdf.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/diffpatcher/rebase.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/diffpatcher/rebase.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/modules/red.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/modules/red.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/core/reference.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/core/reference.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/util/registry.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/util/registry.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/request.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/request.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leap/riggedHand.html" afterPath="$PROJECT_DIR$/leap/riggedHand.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/util/rules.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/util/rules.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/addon/runner.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/addon/runner.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/test/runner.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/test/runner.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/runner.py" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/runner.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/system/runtime.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/system/runtime.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/require/same-folder.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/require/same-folder.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/examples/reading-data/data/sample.html" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/examples/reading-data/data/sample.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/sandbox-complex-character.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/sandbox-complex-character.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/sandbox-normal.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/sandbox-normal.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/content/sandbox.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/content/sandbox.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/loader/sandbox.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/loader/sandbox.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/simplejson/scanner.py" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/simplejson/scanner.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/page-mod-debugger-post/data/script.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/page-mod-debugger-post/data/script.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/page-mod-debugger-pre/data/script.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/page-mod-debugger-pre/data/script.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/selection.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/selection.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/examples/annotator/data/selector.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/examples/annotator/data/selector.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/self.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/self.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/util/sequence.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/util/sequence.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/preferences/service.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/preferences/service.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/modules/setExports.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/modules/setExports.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/chrome-worker/setTimeout.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/chrome-worker/setTimeout.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/ui/sidebar.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/ui/sidebar.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/simple-prefs.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/simple-prefs.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/simple-storage.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/simple-storage.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/native-addon-test/node_modules/test-math/lib/sqrt.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/native-addon-test/node_modules/test-math/lib/sqrt.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/ui/state.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/ui/state.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/io/stream.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/io/stream.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/chrome/chrome/skin/style.css" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/chrome/chrome/skin/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/stylesheet/style.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/stylesheet/style.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/linker-files/three-deps/three-a/lib/subdir/subfile.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/linker-files/three-deps/three-a/lib/subdir/subfile.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/linker-files/three/data/subdir/submsg.txt" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/linker-files/three/data/subdir/submsg.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/system/child_process/subprocess.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/system/child_process/subprocess.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/system/child_process/subprocess_worker_unix.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/system/child_process/subprocess_worker_unix.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/system/child_process/subprocess_worker_win.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/system/child_process/subprocess_worker_win.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/modules/subtract.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/modules/subtract.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/deprecated/symbiont.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/deprecated/symbiont.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/system.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/system.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/input/system.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/input/system.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/output/system.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/output/system.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/tabs/tab-fennec.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/tabs/tab-fennec.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/tabs/tab-firefox.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/tabs/tab-firefox.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/tabs/tab.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/tabs/tab.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/windows/tabs-fennec.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/windows/tabs-fennec.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/tabs/tabs-firefox.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/tabs/tabs-firefox.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/windows/tabs-firefox.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/windows/tabs-firefox.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/tabs.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/tabs.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/require/tabs.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/require/tabs.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/private-browsing/tabs.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/private-browsing/tabs.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/diffpatcher/test/tap.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/diffpatcher/test/tap.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/event/target.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/event/target.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/templates.py" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/templates.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-addon-installer.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-addon-installer.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-addon-window.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-addon-window.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-api-utils.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-api-utils.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-array.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-array.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-base64.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-base64.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-browser-events.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-browser-events.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-buffer.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-buffer.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-byte-streams.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-byte-streams.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-child_process.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-child_process.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-chrome.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-chrome.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-clipboard.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-clipboard.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-collection.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-collection.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-commonjs-test-adapter.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-commonjs-test-adapter.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-content-events.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-content-events.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-content-loader.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-content-loader.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-content-script.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-content-script.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-content-symbiont.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-content-symbiont.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/test-content-symbiont.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/test-content-symbiont.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-content-worker.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-content-worker.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/test-contentScriptFile.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/test-contentScriptFile.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-context-menu.html" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-context-menu.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-context-menu.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-context-menu.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/test-context-menu.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/test-context-menu.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-cortex.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-cortex.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-cuddlefish.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-cuddlefish.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-deprecate.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-deprecate.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-deprecated-list.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-deprecated-list.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-diffpatcher.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-diffpatcher.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-dispatcher.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-dispatcher.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-disposable.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-disposable.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-dom.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-dom.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-environment.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-environment.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-errors.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-errors.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-event-core.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-event-core.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-event-target.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-event-target.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-event-utils.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-event-utils.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-events.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-events.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/tabs/test-fennec-tabs.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/tabs/test-fennec-tabs.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/windows/test-fennec-windows.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/windows/test-fennec-windows.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-file.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-file.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/tabs/test-firefox-tabs.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/tabs/test-firefox-tabs.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/windows/test-firefox-windows.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/windows/test-firefox-windows.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-614712-files/packages/commonjs-naming/test/test-foo.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-614712-files/packages/commonjs-naming/test/test-foo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-614712-files/packages/original-naming/tests/test-foo.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-614712-files/packages/original-naming/tests/test-foo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-652227-files/packages/default-lib/test/test-foo.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-652227-files/packages/default-lib/test/test-foo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-652227-files/packages/default-root/test/test-foo.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-652227-files/packages/default-root/test/test-foo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-652227-files/packages/explicit-dir-lib/test/test-foo.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-652227-files/packages/explicit-dir-lib/test/test-foo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-652227-files/packages/explicit-lib/test/test-foo.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/bug-652227-files/packages/explicit-lib/test/test-foo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-frame-utils.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-frame-utils.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-fs.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-fs.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-functional.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-functional.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/private-browsing-supported/test-global-private-browsing.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/private-browsing-supported/test-global-private-browsing.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-globals.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-globals.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-heritage.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-heritage.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-hidden-frame.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-hidden-frame.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-host-events.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-host-events.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-hotkeys.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-hotkeys.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-httpd.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-httpd.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/test-iframe-postmessage.html" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/test-iframe-postmessage.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/test-iframe.html" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/test-iframe.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/test-iframe.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/test-iframe.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-indexed-db.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-indexed-db.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-keyboard-observer.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-keyboard-observer.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-keyboard-utils.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-keyboard-utils.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-l10n-locale.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-l10n-locale.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-l10n-plural-rules.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-l10n-plural-rules.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-libxul.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-libxul.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-light-traits.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-light-traits.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-list.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-list.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-loader.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-loader.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/l10n-properties/data/test-localization.html" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/l10n-properties/data/test-localization.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/l10n/data/test-localization.html" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/l10n/data/test-localization.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addon/3dfox/test/test-main.js" afterPath="$PROJECT_DIR$/addon/3dfox/test/test-main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/examples/annotator/tests/test-main.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/examples/annotator/tests/test-main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/examples/library-detector/test/test-main.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/examples/library-detector/test/test-main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/examples/reading-data/tests/test-main.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/examples/reading-data/tests/test-main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/examples/reddit-panel/tests/test-main.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/examples/reddit-panel/tests/test-main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-match-pattern.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-match-pattern.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-memory.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-memory.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/test-message-manager.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/test-message-manager.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-method.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-method.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/addons/simplest-test/tests/test-minimal.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/addons/simplest-test/tests/test-minimal.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-module.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-module.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-modules.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-modules.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-namespace.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-namespace.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-native-loader.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-native-loader.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-net-url.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-net-url.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-node-os.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-node-os.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-notifications.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-notifications.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-object.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-object.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-observers.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-observers.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/linker-files/three/tests/test-one.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/linker-files/three/tests/test-one.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-packaging.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-packaging.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/test-page-mod.html" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/test-page-mod.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-page-mod.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-page-mod.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/private-browsing-supported/test-page-mod.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/private-browsing-supported/test-page-mod.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/test-page-worker.html" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/test-page-worker.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-page-worker.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-page-worker.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/test-page-worker.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/test-page-worker.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-panel.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-panel.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/private-browsing-supported/test-panel.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/private-browsing-supported/test-panel.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-passwords-utils.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-passwords-utils.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-passwords.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-passwords.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-path.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-path.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/places/tests/test-places-bookmarks.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/places/tests/test-places-bookmarks.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/places/tests/test-places-events.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/places/tests/test-places-events.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/places/tests/test-places-favicon.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/places/tests/test-places-favicon.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/places/tests/test-places-history.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/places/tests/test-places-history.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/places/tests/test-places-host.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/places/tests/test-places-host.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/places/tests/test-places-utils.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/places/tests/test-places-utils.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-plain-text-console.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-plain-text-console.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-preferences-service.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-preferences-service.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-preferences-target.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-preferences-target.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-private-browsing.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-private-browsing.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/private-browsing-supported/test-private-browsing.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/private-browsing-supported/test-private-browsing.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-promise.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-promise.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-querystring.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-querystring.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/buffers/test-read-types.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/buffers/test-read-types.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-reference.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-reference.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-registry.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-registry.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-request.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-request.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-require.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-require.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-rules.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-rules.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-sandbox.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-sandbox.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-selection.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-selection.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/private-browsing-supported/test-selection.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/private-browsing-supported/test-selection.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-self.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-self.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-sequence.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-sequence.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-set-exports.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-set-exports.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/test-sidebar-addon-global.html" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/test-sidebar-addon-global.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/private-browsing-supported/test-sidebar.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/private-browsing-supported/test-sidebar.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-simple-prefs.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-simple-prefs.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-simple-storage.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-simple-storage.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-system-events.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-system-events.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-system-input-output.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-system-input-output.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-system-runtime.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-system-runtime.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-system.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-system.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-tab-events.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-tab-events.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-tab-observer.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-tab-observer.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-tab-utils.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-tab-utils.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-tab.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-tab.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-tabs-common.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-tabs-common.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-tabs.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-tabs.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/private-browsing-supported/test-tabs.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/private-browsing-supported/test-tabs.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-test-loader.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-test-loader.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-test-memory.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-test-memory.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-test-utils-async.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-test-utils-async.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-test-utils-sync.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-test-utils-sync.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-test-utils.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-test-utils.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-text-streams.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-text-streams.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-timer.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-timer.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-tmp-file.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-tmp-file.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-traceback.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-traceback.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-traits-core.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-traits-core.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-traits.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-traits.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/symbiont/data/test-trusted-document.html" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/symbiont/data/test-trusted-document.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/test-trusted-document.html" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/test-trusted-document.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/linker-files/three/tests/test-two.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/linker-files/three/tests/test-two.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-type.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-type.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-ui-action-button.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-ui-action-button.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-ui-frame.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-ui-frame.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-ui-id.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-ui-id.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-ui-sidebar-private-browsing.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-ui-sidebar-private-browsing.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-ui-sidebar.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-ui-sidebar.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-ui-toggle-button.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-ui-toggle-button.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-ui-toolbar.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-ui-toolbar.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-unit-test.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-unit-test.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-unload.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-unload.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-unsupported-skip.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-unsupported-skip.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-url.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-url.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-uuid.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-uuid.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-weak-set.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-weak-set.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-widget.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-widget.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-window-events.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-window-events.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-window-loader.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-window-loader.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-window-observer.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-window-observer.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/private-browsing-supported/test-window-tabs.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/private-browsing-supported/test-window-tabs.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-window-utils-global-private-browsing.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-window-utils-global-private-browsing.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-window-utils-private-browsing.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-window-utils-private-browsing.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-window-utils.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-window-utils.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-window-utils2.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-window-utils2.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-windows-common.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-windows-common.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-windows.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-windows.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/private-browsing-supported/test-windows.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/private-browsing-supported/test-windows.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/buffers/test-write-types.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/buffers/test-write-types.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-xhr.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-xhr.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-xpcom.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-xpcom.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-xul-app.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/test-xul-app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/test.html" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/test.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/test.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/test.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/test.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/test.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/native-addon-test/dir/test.jsm" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/native-addon-test/dir/test.jsm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/loader/json/test.json.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/loader/json/test.json.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/loader/json/test.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/loader/json/test.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/testLocalXhr.json" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/testLocalXhr.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/test_init.py" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/test_init.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/test_licenses.py" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/test_licenses.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/test_linker.py" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/test_linker.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/test_manifest.py" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/test_manifest.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/test_packaging.py" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/test_packaging.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/test_preflight.py" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/test_preflight.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/test_property_parser.py" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/test_property_parser.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/test_rdf.py" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/test_rdf.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/test_runner.py" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/test_runner.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/test_util.py" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/test_util.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/test_version.py" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/test_version.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/test_xpi.py" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/test_xpi.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/io/text-streams.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/io/text-streams.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/linker-files/seven/data/text.data" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/linker-files/seven/data/text.data" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/static-files/packages/third_party/lib/third-party.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/static-files/packages/third_party/lib/third-party.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addon/3dfox/data/three.js" afterPath="$PROJECT_DIR$/addon/3dfox/data/three.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/linker-files/one/lib/subdir/three.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/linker-files/one/lib/subdir/three.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/content/thumbnail.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/content/thumbnail.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/modules/tiger.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/modules/tiger.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/timers.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/timers.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/test/tmp-file.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/test/tmp-file.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/ui/button/toggle.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/ui/button/toggle.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/simplejson/tool.py" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/simplejson/tool.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/ui/toolbar.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/ui/toolbar.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/console/traceback.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/console/traceback.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/modules/traditional1.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/modules/traditional1.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/modules/traditional2.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/modules/traditional2.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/deprecated/traits-worker.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/deprecated/traits-worker.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/deprecated/traits.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/deprecated/traits.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/linker-files/one/lib/two.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/linker-files/one/lib/two.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/lang/type.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/lang/type.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/ui.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/ui.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/deprecated/unit-test-finder.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/deprecated/unit-test-finder.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/deprecated/unit-test.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/deprecated/unit-test.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/system/unload.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/system/unload.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/linker-files/six/unreachable.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/linker-files/six/unreachable.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/linker-files/seven/lib/unused.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/linker-files/seven/lib/unused.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/linker-files/six/lib/unused.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/linker-files/six/lib/unused.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/linker-files/three-deps/three-a/lib/unused.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/tests/linker-files/three-deps/three-a/lib/unused.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/url.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/url.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/net/url.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/net/url.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/util.py" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/util.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/content/utils.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/content/utils.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/event/utils.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/event/utils.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/frame/utils.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/frame/utils.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/keyboard/utils.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/keyboard/utils.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/panel/utils.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/panel/utils.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/passwords/utils.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/passwords/utils.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/places/utils.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/places/utils.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/private-browsing/utils.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/private-browsing/utils.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/private-browsing/window/utils.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/private-browsing/window/utils.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/stylesheet/utils.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/stylesheet/utils.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/tabs/utils.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/tabs/utils.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/test/utils.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/test/utils.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/ui/sidebar/utils.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/ui/sidebar/utils.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/url/utils.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/url/utils.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/window/utils.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/window/utils.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/worker/utils.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/worker/utils.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/private-browsing-supported/sidebar/utils.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/addons/private-browsing-supported/sidebar/utils.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/sidebar/utils.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/sidebar/utils.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/traits/utils.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/traits/utils.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/util/uuid.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/util/uuid.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/version_comparator.py" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/version_comparator.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/ui/frame/view.html" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/ui/frame/view.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/ui/button/view.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/ui/button/view.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/ui/frame/view.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/ui/frame/view.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/ui/sidebar/view.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/ui/sidebar/view.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/ui/toolbar/view.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/ui/toolbar/view.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/lang/weak-set.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/lang/weak-set.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/examples/library-detector/data/widget.html" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/examples/library-detector/data/widget.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/examples/annotator/data/widget/widget.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/examples/annotator/data/widget/widget.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/widget.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/widget.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/deprecated/window-utils.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/deprecated/window-utils.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/addon/window.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/addon/window.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/input/window.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/input/window.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/panel/window.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/panel/window.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/windows.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/windows.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/private-browsing/windows.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/private-browsing/windows.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/mozrunner/winprocess.py" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/mozrunner/winprocess.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/content/worker.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/content/worker.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/tabs/worker.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/tabs/worker.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/mozrunner/wpk.py" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/mozrunner/wpk.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/net/xhr.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/net/xhr.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/chrome-worker/xhr.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/test/fixtures/chrome-worker/xhr.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/platform/xpcom.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/platform/xpcom.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/xpi.py" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/python-lib/cuddlefish/xpi.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/system/xul-app.js" afterPath="$PROJECT_DIR$/api/addon-sdk-1.17/lib/sdk/system/xul-app.js" />
+    </list>
+    <ignored path="3dfox.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="3dfox" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="riggedHand.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leap/riggedHand.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="47" column="58" selection-start="0" selection-end="1159" vertical-scroll-proportion="-29.375" vertical-offset="0" max-vertical-offset="825">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leap/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="19" selection-start="224" selection-end="253" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="330">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/addon/3dfox/lib/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="16" selection-start="537" selection-end="537" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="showhand.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/addon/3dfox/data/showhand.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="37" selection-start="349" selection-end="349" vertical-scroll-proportion="0.18456376" vertical-offset="0" max-vertical-offset="894">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../javascript-master/v2/left-right/index.html" />
+        <option value="$PROJECT_DIR$/leap/riggedHand.html" />
+        <option value="$PROJECT_DIR$/leap/showhand.js" />
+        <option value="$PROJECT_DIR$/addon/3dfox/data/index.html" />
+        <option value="$PROJECT_DIR$/leap/index.html" />
+        <option value="$PROJECT_DIR$/addon/3dfox/data/abc.js" />
+        <option value="$PROJECT_DIR$/addon/3dfox/lib/main.js" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1" />
+    <option name="y" value="27" />
+    <option name="width" value="1922" />
+    <option name="height" value="1054" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="3dfox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="3dfox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="3dfox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="3dfox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="3dfox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="leap" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="3dfox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="3dfox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="addon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="3dfox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="3dfox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="3dfox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="addon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="3dfox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="3dfox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="3dfox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="addon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="3dfox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="options.lastSelected" value="web-ide.project.structure" />
+    <property name="FullScreen" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/addon/3dfox/data" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2529b72d-e3b6-4aca-b981-3eb9201abc03" name="Default" comment="" />
+      <created>1418232786807</created>
+      <updated>1418232786807</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="27" width="1922" height="1054" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18177083" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/leap/riggedHand.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="2" selection-start="1157" selection-end="1157" vertical-scroll-proportion="0.0" vertical-offset="690" max-vertical-offset="1020">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addon/3dfox/lib/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="1" selection-start="405" selection-end="405" vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="360">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../javascript-master/v2/left-right/leap.rigged-hand-0.1.3.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="347" selection-start="1429" selection-end="1429" vertical-scroll-proportion="0.36275697" vertical-offset="0" max-vertical-offset="827" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../javascript-master/v2/left-right/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="28" selection-start="206" selection-end="212" vertical-scroll-proportion="-1.8367347" vertical-offset="0" max-vertical-offset="1260" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addon/3dfox/data/three.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-697.005" vertical-offset="560392" max-vertical-offset="566490">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leap/riggedHand.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="58" selection-start="0" selection-end="1159" vertical-scroll-proportion="-29.375" vertical-offset="0" max-vertical-offset="825">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addon/3dfox/data/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="17" selection-start="83" selection-end="91" vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="330">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leap/showhand.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="58" selection-start="1068" selection-end="1068" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="615">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addon/3dfox/data/abc.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="19" selection-start="19" selection-end="19" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="894">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addon/3dfox/data/abcd.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="894">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leap/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="19" selection-start="224" selection-end="253" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="330">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addon/3dfox/lib/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="16" selection-start="537" selection-end="537" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addon/3dfox/data/showhand.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="37" selection-start="349" selection-end="349" vertical-scroll-proportion="0.18456376" vertical-offset="0" max-vertical-offset="894">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
