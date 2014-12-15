@@ -9,7 +9,6 @@ function concatData(id,data)
 
 var output = document.getElementById('output');
 var frameString = "", handString = "", fingerString = "";
-var hand, finger;
 
 var options = { enableGestures: true };
 
@@ -23,6 +22,12 @@ Leap.loop(options, function (frame) {
     frameString += concatData("number of hands", frame.hands.length);
 
     frameString += concatData("number of fingers", frame.fingers.length);
+
+    if (typeof frame.hands[0]  != "undefined")
+    {
+     frameString += concatData("Z Coordinate :",frame.hands[0]._translation[2]);
+
+    }
 
     frameString += "<br>";
 
