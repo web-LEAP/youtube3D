@@ -148,21 +148,29 @@
 
 					var prev = object.position.z + 400;
 
-					new TWEEN.Tween( camera.position )
-						.to( { x: object.position.x, y: object.position.y - 25 }, 1500 )
-						.easing( TWEEN.Easing.Exponential.Out )
-						.start();
+					// new TWEEN.Tween( object.position )
+					// 	.to( { z:object.position.z+250 }, 1500 )
+					// 	.easing( TWEEN.Easing.Exponential.Out )
+					// 	.start();
 
-					new TWEEN.Tween( { value: prev } )
-						.to( { value: 0  }, 2000 )
-						.onUpdate( function () {
+					// new TWEEN.Tween( camera.position )
+					// 	.to( { y: object.position.y -250 }, 1500 )
+					// 	.easing( TWEEN.Easing.Exponential.Out )
+					// 	.start();
 
-							move( this.value - prev );
-							prev = this.value;
+					move(object.position.x);
 
-						} )
-						.easing( TWEEN.Easing.Exponential.Out )
-						.start();
+					// new TWEEN.Tween( { value: prev } )
+					// 	.to( { value: 0  }, 2000 )
+					// 	.onUpdate( function () {
+
+					// 		move( this.value - prev );
+					// 		prev = this.value;
+
+					// 	} )
+					// 	.easing( TWEEN.Easing.Exponential.Out )
+					// 	.start();
+					//<iframe width="384" height="216" src="//www.youtube.com/embed/bHQqvYy5KYo" frameborder="0" allowfullscreen></iframe>
 
 				}, false );
 
@@ -341,6 +349,7 @@
 
 					}
 					}
+
 
 				}
 
