@@ -10,7 +10,7 @@
 			}
 
 			body {
-				background-color: #000000;
+				background-color: #191919;
 				margin: 0;
 				font-family: Arial;
 				overflow: hidden;
@@ -45,13 +45,13 @@
 		</style>
 	</head>
 	<body>
-		<script src="extra1.js"></script>
+		<script src="three.min.js"></script>
 
-		<script src="extra2.js"></script>
-		<script src="extra3.js"></script>
+		<script src="tween.min.js"></script>
+		<script src="CSS3DRenderer.js"></script>
 
 		<div id="container"></div>
-		<div id="search"><input id="query" type="text" value="Bayern Munich"><button id="button">search</button></div>
+		<div id="search"><input id="query" type="text" value="Trailer"><button id="button">search</button></div>
 
 		<script>
 			var camera, scene, renderer,inix=-800;
@@ -313,15 +313,18 @@
 						if(object.position.x <=-725 && object.position.x >= -775){
 							object.position.z --;
 						}
-
-
 					/*if ( object.position.z > 0 ) {
 
 						object.position.z -= 5000;
 
 					} else*/ if ( object.position.x < - 1500 ) {
 
-						object.position.x += 25000;
+						object.position.x += 25100;
+
+					}
+					if ( object.position.x >  1500 ) {
+
+						object.position.x -= 25100;
 
 					}
 
@@ -332,7 +335,7 @@
 
 			function onMouseWheel( event ) {
 
-				//move( event.wheelDelta );
+				move( event.wheelDelta );
 
 			}
 
