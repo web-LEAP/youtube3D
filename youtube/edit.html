@@ -94,7 +94,7 @@
 				inix+=500;
 				 object.position.y = Math.random() * 2000 - 1000;
 				//object.position.y = 0;
-				object.position.z = -700;
+				object.position.z = -675;
 
 				//
 
@@ -299,19 +299,19 @@
 				for ( var i = 0; i < scene.children.length; i ++ ) {
 
 					var object = scene.children[ i ];
-
+					
 					object.position.x -= delta;
-						if(object.position.x <= 250 && object.position.x > -250){
-							object.position.z = -600;					
+						if(object.position.x <= 275 && object.position.x >= 225){
+							object.position.z ++;				
 						}
-						if(object.position.x <= 750 && object.position.x >250){
-							object.position.z = -650;							
+						if(object.position.x <= 775 && object.position.x >=750){
+							object.position.z ++;							
 						}
-						if(object.position.x <= -250 && object.position.x >-750){
-							object.position.z = -650;							
+						if(object.position.x <= -225 && object.position.x >=-275){
+							object.position.z --;							
 						}
-						if(object.position.x > 750 || object.position.x <= -750){
-							object.position.z=-700;
+						if(object.position.x <=-725 && object.position.x >= -775){
+							object.position.z --;
 						}
 
 
@@ -361,6 +361,7 @@
 				renderer.render( scene, camera );
 
 			}
+
 
 		</script>
 	</body>
