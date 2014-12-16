@@ -15,7 +15,7 @@ var button = buttons.ActionButton({
 });
 
 pageMod.PageMod({
-  include: "file:///home/aadil/Desktop/h.html*",
+  include: "http://www.google.co.in/*",
   contentScriptFile: [data.url("three.js"), data.url("leap.js"), data.url("leap_plugins.js"), data.url("leap.rigged_hand.min.js"), data.url("display_hand.js")]
   // contentScript: 'document.body.innerHTML = ' +
   //                ' "<h1>Page matches ruleset</h1>";'
