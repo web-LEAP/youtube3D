@@ -313,15 +313,15 @@ function move(delta) {
 
         var object = scene.children[i];
 
-        object.position.z += delta;
+        object.position.x += delta;
 
-        if (object.position.z > 0) {
+        if (object.position.x > 0) {
 
-            object.position.z -= 5000;
+            object.position.x -= 5000;
 
-        } else if (object.position.z < -5000) {
+        } else if (object.position.x < -5000) {
 
-            object.position.z += 5000;
+            object.position.x += 5000;
 
         }
 
@@ -436,6 +436,7 @@ function animate() {
                             break;
                         case "swipe":
                             frameString += " Gesture: swipe" + "<br>";
+                                move(20);
                             console.log("Gesture: swipe");
                             break;
                     }
@@ -452,14 +453,14 @@ function animate() {
                 frameString += concatData("X Coordinate :",screenPosition.x);
                 frameString += concatData("Y Coordinate :",screenPosition.y);
                 frameString += concatData("Z Coordinate :",frame.hands[0].palmPosition[2]);
-                if ( frame.hands[0].palmPosition[2] < -50 )
-                {
-                    move(20);
-                }
-                if ( frame.hands[0].palmPosition[2] > 50 )
-                {
-                    move(-20);
-                }
+            //    if ( frame.hands[0].palmPosition[2] < -50 )
+             //   {
+            //        move(20);
+           //     }
+             //   if ( frame.hands[0].palmPosition[2] > 50 )
+            //    {
+            //        move(-20);
+             //   }
             }
 
             frameString += "<br>";
