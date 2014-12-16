@@ -2,15 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2529b72d-e3b6-4aca-b981-3eb9201abc03" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tryingthree/try.html" />
-      <change type="DELETED" beforePath="F:\Development\3dfox\Youtube 3d\CSS3DRenderer.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\Development\3dfox\Youtube 3d\New Text Document.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Development\3dfox\Youtube 3d\css3d_youtube.html" afterPath="" />
-      <change type="DELETED" beforePath="F:\Development\3dfox\Youtube 3d\riggedHand.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\Development\3dfox\Youtube 3d\three.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\Development\3dfox\Youtube 3d\three.min.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\Development\3dfox\Youtube 3d\tween.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\Development\3dfox\Youtube 3d\tween.min.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leap/youtube.html" afterPath="$PROJECT_DIR$/leap/youtube.html" />
     </list>
@@ -37,12 +28,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="youtube.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="youtube.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/leap/youtube.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-36.588234" vertical-offset="5580" max-vertical-offset="8347">
-              <caret line="438" column="41" selection-start-line="438" selection-start-column="41" selection-end-line="438" selection-end-column="41" />
+            <state vertical-scroll-proportion="8.668612" vertical-offset="85" max-vertical-offset="8381">
+              <caret line="442" column="28" selection-start-line="442" selection-start-column="28" selection-end-line="442" selection-end-column="28" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="leap.rigged-hand-0.1.5.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leap/leap.rigged-hand-0.1.5.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-53.24" vertical-offset="6761" max-vertical-offset="12495">
+              <caret line="476" column="9" selection-start-line="476" selection-start-column="9" selection-end-line="476" selection-end-column="9" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <marker date="1418738802876" expanded="false" signature="2285:2295" placeholder="..." />
+                <marker date="1418738802876" expanded="false" signature="2383:2393" placeholder="..." />
+                <marker date="1418738802876" expanded="false" signature="2549:2559" placeholder="..." />
+                <marker date="1418738802876" expanded="false" signature="2646:2656" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -50,7 +57,7 @@
       <file leaf-file-name="CSS3DRenderer.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/leap/CSS3DRenderer.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-27.68" vertical-offset="3320" max-vertical-offset="4216">
+            <state vertical-scroll-proportion="0.0" vertical-offset="3320" max-vertical-offset="4216">
               <caret line="236" column="9" selection-start-line="236" selection-start-column="9" selection-end-line="236" selection-end-column="9" />
               <folding />
             </state>
@@ -60,17 +67,17 @@
       <file leaf-file-name="three.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/leap/three.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-131.44" vertical-offset="126407" max-vertical-offset="642022">
+            <state vertical-scroll-proportion="0.0" vertical-offset="126407" max-vertical-offset="642022">
               <caret line="7629" column="50" selection-start-line="7629" selection-start-column="50" selection-end-line="7629" selection-end-column="50" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="try.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="try.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tryingthree/try.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.58882684" vertical-offset="0" max-vertical-offset="895">
+            <state vertical-scroll-proportion="-20.26923" vertical-offset="0" max-vertical-offset="663">
               <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
               <folding />
             </state>
@@ -110,8 +117,8 @@
         <option value="$PROJECT_DIR$/addon/plugin/lib/main.js" />
         <option value="$PROJECT_DIR$/addon/plugin/data/leap.rigged-hand-0.1.5.js" />
         <option value="$PROJECT_DIR$/leap/leap.rigged-hand-0.1.5.js" />
-        <option value="$PROJECT_DIR$/leap/youtube.html" />
         <option value="$PROJECT_DIR$/tryingthree/try.html" />
+        <option value="$PROJECT_DIR$/leap/youtube.html" />
       </list>
     </option>
   </component>
@@ -242,15 +249,15 @@
       <BehatRunner />
       <method />
     </configuration>
-    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
-      <method />
-    </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <node-options />
       <gulpfile />
       <tasks />
       <pass-parent-env-vars>false</pass-parent-env-vars>
       <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
       <method />
     </configuration>
     <list size="0" />
@@ -316,6 +323,38 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/leap/youtube.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="5580" max-vertical-offset="8347">
+          <caret line="438" column="41" selection-start-line="438" selection-start-column="41" selection-end-line="438" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leap/CSS3DRenderer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3320" max-vertical-offset="4216">
+          <caret line="236" column="9" selection-start-line="236" selection-start-column="9" selection-end-line="236" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leap/three.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="126407" max-vertical-offset="642022">
+          <caret line="7629" column="50" selection-start-line="7629" selection-start-column="50" selection-end-line="7629" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tryingthree/try.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="663">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/addon/3dfox/lib/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="360">
@@ -344,17 +383,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leap/youtube.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-36.588234" vertical-offset="5580" max-vertical-offset="8347">
-          <caret line="438" column="41" selection-start-line="438" selection-start-column="41" selection-end-line="438" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/leap/three.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-131.44" vertical-offset="126407" max-vertical-offset="642022">
+        <state vertical-scroll-proportion="0.0" vertical-offset="126407" max-vertical-offset="642022">
           <caret line="7629" column="50" selection-start-line="7629" selection-start-column="50" selection-end-line="7629" selection-end-column="50" />
           <folding />
         </state>
@@ -362,7 +393,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/leap/CSS3DRenderer.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-27.68" vertical-offset="3320" max-vertical-offset="4216">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3320" max-vertical-offset="4216">
           <caret line="236" column="9" selection-start-line="236" selection-start-column="9" selection-end-line="236" selection-end-column="9" />
           <folding />
         </state>
@@ -370,8 +401,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tryingthree/try.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.58882684" vertical-offset="0" max-vertical-offset="895">
+        <state vertical-scroll-proportion="-20.26923" vertical-offset="0" max-vertical-offset="663">
           <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leap/leap.rigged-hand-0.1.5.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-53.24" vertical-offset="6761" max-vertical-offset="12495">
+          <caret line="476" column="9" selection-start-line="476" selection-start-column="9" selection-end-line="476" selection-end-column="9" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <marker date="1418738802876" expanded="false" signature="2285:2295" placeholder="..." />
+            <marker date="1418738802876" expanded="false" signature="2383:2393" placeholder="..." />
+            <marker date="1418738802876" expanded="false" signature="2549:2559" placeholder="..." />
+            <marker date="1418738802876" expanded="false" signature="2646:2656" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leap/youtube.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="8.668612" vertical-offset="85" max-vertical-offset="8381">
+          <caret line="442" column="28" selection-start-line="442" selection-start-column="28" selection-end-line="442" selection-end-column="28" />
           <folding />
         </state>
       </provider>
