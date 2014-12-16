@@ -45,6 +45,7 @@
 		</style>
 	</head>
 	<body>
+		<script src="jquery.js"></script>
 		<script src="three.min.js"></script>
 
 		<script src="tween.min.js"></script>
@@ -141,6 +142,7 @@
 					player.style.width = '480px';
 					player.style.height = '360px';
 					player.style.border = '0px';
+					player.setAttribute('allowFullScreen', '');
 					player.src = 'http://www.youtube.com/embed/' + entry.id.$t.split( ':' ).pop() + '?rel=0&autoplay=1&controls=1&showinfo=0';
 					this.appendChild( player );
 
@@ -348,7 +350,9 @@
 						object.position.x -= 25050;
 
 					}
-					}
+
+
+				}
 
 
 				}
