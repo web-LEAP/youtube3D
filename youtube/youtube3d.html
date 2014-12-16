@@ -299,20 +299,33 @@
 				for ( var i = 0; i < scene.children.length; i ++ ) {
 
 					var object = scene.children[ i ];
-					
-					object.position.x -= delta;
-						if(object.position.x <= 275 && object.position.x >= 225){
+					var sign = delta >0?1:-1;
+					for(var j=0;j <sign*delta;j++){
+
+					object.position.x-=sign ;
+						if(object.position.x >= -250 && object.position.x <= 250 && object.position.z <= -600){
 							object.position.z ++;				
 						}
-						if(object.position.x <= 775 && object.position.x >=750){
+						if(object.position.x <= 750 && object.position.x >=250 && object.position.z <= -650){
 							object.position.z ++;							
 						}
-						if(object.position.x <= -225 && object.position.x >=-275){
+						if(object.position.x <= 750 && object.position.x >=250 && object.position.z >= -650){
 							object.position.z --;							
 						}
-						if(object.position.x <=-725 && object.position.x >= -775){
+						if(object.position.x >= -750 && object.position.x <= -250 && object.position.z <= -650){
+							object.position.z ++;							
+						}
+						if(object.position.x >= -750 && object.position.x <= -250 && object.position.z >= -650){
+							object.position.z --;							
+						}
+						//if(object.position.x <=-725 && object.position.x >= -775 && object.position.z >= -700 && object.position.z <= -650){
+						//	object.position.z --;
+						//}
+						if(object.position.x <= -750 && object.position.z >= -700){
 							object.position.z --;
 						}
+						if(object.position.x >= 1500 || object.position.x <= -1500)
+							object.position.z = -700;
 					/*if ( object.position.z > 0 ) {
 
 						object.position.z -= 5000;
@@ -326,6 +339,7 @@
 
 						object.position.x -= 25100;
 
+					}
 					}
 
 				}
