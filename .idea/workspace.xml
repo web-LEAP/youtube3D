@@ -2,8 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2529b72d-e3b6-4aca-b981-3eb9201abc03" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/youtube/styles/fonts/basic.icons.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/youtube/styles/fonts/basic.icons.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/youtube/styles/fonts/basic.icons.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/youtube/styles/fonts/icons.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/youtube/styles/fonts/icons.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/youtube/styles/fonts/icons.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/youtube/styles/fonts/icons.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/youtube/styles/images/loader-large-inverted.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/youtube/styles/images/loader-large.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/youtube/styles/images/loader-medium-inverted.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/youtube/styles/images/loader-medium.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/youtube/styles/images/loader-mini-inverted.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/youtube/styles/images/loader-mini.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/youtube/styles/images/loader-small-inverted.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/youtube/styles/images/loader-small.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/youtube/CSS3DRenderer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/youtube/styles/fonts/basic.icons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/youtube/styles/fonts/icons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/youtube/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/youtube/leap-plugins-0.1.6.1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/youtube/leap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/youtube/leap.rigged-hand-0.1.3.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/youtube/styles/css/semantic.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/youtube/styles/javascript/semantic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/youtube/styles/css/semantic.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/youtube/styles/javascript/semantic.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/youtube/styles/css/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/youtube/three.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/youtube/three.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/youtube/tween.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/youtube/youtube3d.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/youtube/youtube3d2.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addon/3dfox/lib/main.js" afterPath="$PROJECT_DIR$/addon/3dfox/lib/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leap/riggedHand.html" afterPath="$PROJECT_DIR$/leap/riggedHand.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leap/youtube.html" afterPath="$PROJECT_DIR$/leap/youtube.html" />
     </list>
     <ignored path="3dfox.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,28 +61,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="youtube.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="youtube.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/leap/youtube.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="8.668612" vertical-offset="85" max-vertical-offset="8381">
+            <state vertical-scroll-proportion="-285.73077" vertical-offset="85" max-vertical-offset="8381">
               <caret line="442" column="28" selection-start-line="442" selection-start-column="28" selection-end-line="442" selection-end-column="28" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="leap.rigged-hand-0.1.5.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leap/leap.rigged-hand-0.1.5.js">
+      <file leaf-file-name="youtube3d2.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/youtube/youtube3d2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-53.24" vertical-offset="6761" max-vertical-offset="12495">
-              <caret line="476" column="9" selection-start-line="476" selection-start-column="9" selection-end-line="476" selection-end-column="9" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-                <marker date="1418738802876" expanded="false" signature="2285:2295" placeholder="..." />
-                <marker date="1418738802876" expanded="false" signature="2383:2393" placeholder="..." />
-                <marker date="1418738802876" expanded="false" signature="2549:2559" placeholder="..." />
-                <marker date="1418738802876" expanded="false" signature="2646:2656" placeholder="..." />
-              </folding>
+            <state vertical-scroll-proportion="0.6791383" vertical-offset="8836" max-vertical-offset="10336">
+              <caret line="555" column="0" selection-start-line="555" selection-start-column="0" selection-end-line="555" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -69,16 +96,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="126407" max-vertical-offset="642022">
               <caret line="7629" column="50" selection-start-line="7629" selection-start-column="50" selection-end-line="7629" selection-end-column="50" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="try.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tryingthree/try.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-20.26923" vertical-offset="0" max-vertical-offset="663">
-              <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -119,6 +136,7 @@
         <option value="$PROJECT_DIR$/leap/leap.rigged-hand-0.1.5.js" />
         <option value="$PROJECT_DIR$/tryingthree/try.html" />
         <option value="$PROJECT_DIR$/leap/youtube.html" />
+        <option value="$PROJECT_DIR$/youtube/youtube3d2.html" />
       </list>
     </option>
   </component>
@@ -155,6 +173,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -183,7 +202,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="tryingthree" />
+              <option name="myItemId" value="youtube" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -197,7 +216,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="leap" />
+              <option name="myItemId" value="tryingthree" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -217,7 +236,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -249,15 +267,15 @@
       <BehatRunner />
       <method />
     </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <node-options />
       <gulpfile />
       <tasks />
       <pass-parent-env-vars>false</pass-parent-env-vars>
       <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
       <method />
     </configuration>
     <list size="0" />
@@ -291,13 +309,13 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -325,8 +343,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/leap/youtube.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="5580" max-vertical-offset="8347">
-          <caret line="438" column="41" selection-start-line="438" selection-start-column="41" selection-end-line="438" selection-end-column="41" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="8381">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -347,10 +365,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tryingthree/try.html">
+    <entry file="file://$PROJECT_DIR$/leap/youtube.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="663">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="5580" max-vertical-offset="8347">
+          <caret line="438" column="41" selection-start-line="438" selection-start-column="41" selection-end-line="438" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leap/CSS3DRenderer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3320" max-vertical-offset="4216">
+          <caret line="236" column="9" selection-start-line="236" selection-start-column="9" selection-end-line="236" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leap/three.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="126407" max-vertical-offset="642022">
+          <caret line="7629" column="50" selection-start-line="7629" selection-start-column="50" selection-end-line="7629" selection-end-column="50" />
           <folding />
         </state>
       </provider>
@@ -399,32 +433,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tryingthree/try.html">
+    <entry file="file://$PROJECT_DIR$/youtube/youtube3d.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-20.26923" vertical-offset="0" max-vertical-offset="663">
-          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+        <state vertical-scroll-proportion="-2.254902" vertical-offset="9082" max-vertical-offset="10591">
+          <caret line="541" column="8" selection-start-line="0" selection-start-column="0" selection-end-line="617" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leap/leap.rigged-hand-0.1.5.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-53.24" vertical-offset="6761" max-vertical-offset="12495">
-          <caret line="476" column="9" selection-start-line="476" selection-start-column="9" selection-end-line="476" selection-end-column="9" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <marker date="1418738802876" expanded="false" signature="2285:2295" placeholder="..." />
-            <marker date="1418738802876" expanded="false" signature="2383:2393" placeholder="..." />
-            <marker date="1418738802876" expanded="false" signature="2549:2559" placeholder="..." />
-            <marker date="1418738802876" expanded="false" signature="2646:2656" placeholder="..." />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/leap/youtube.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="8.668612" vertical-offset="85" max-vertical-offset="8381">
+        <state vertical-scroll-proportion="-285.73077" vertical-offset="85" max-vertical-offset="8381">
           <caret line="442" column="28" selection-start-line="442" selection-start-column="28" selection-end-line="442" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youtube/youtube3d2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6791383" vertical-offset="8836" max-vertical-offset="10336">
+          <caret line="555" column="0" selection-start-line="555" selection-start-column="0" selection-end-line="555" selection-end-column="0" />
           <folding />
         </state>
       </provider>
