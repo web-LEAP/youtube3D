@@ -3,7 +3,19 @@
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
-		<title>three.js css3d - youtube</title>
+		<title>Youtube 3d</title>
+		<script src="jquery.js"></script>
+		<script src="three.js"></script>
+
+		<script src="leap.js"></script>
+		<script src="leap-plugins-0.1.6.1.js"></script>
+		<script src="leap.rigged-hand-0.1.3.min.js"></script>
+
+		<script src="tween.min.js"></script>
+		<script src="CSS3DRenderer.js"></script>
+
+		<script src="styles/javascript/semantic.js"></script>
+        <link type="text/css" href="styles/css/semantic.css" rel="stylesheet" />
 		<style>
 			html, body {
 				height: 100%;
@@ -42,14 +54,26 @@
 				text-transform: uppercase;
 				cursor: pointer;
 			}
+			canvas {
+            	pointer-events:none;
+        	}
 		</style>
+		<style>
+        body{
+            font-family: 'Myriad Pro', Helvetica, Arial, 'Lucida Grande', sans-serif;
+            font-size: 24pt;
+            color: white;
+
+        }
+        label {
+            position: fixed;
+            white-space: nowrap;
+        }
+    </style>
+		
 	</head>
 	<body>
-		<script src="jquery.js"></script>
-		<script src="three.min.js"></script>
-
-		<script src="tween.min.js"></script>
-		<script src="CSS3DRenderer.js"></script>
+		
 
 		<div id="container"></div>
 		<div id="search"><input id="query" type="text" value="Trailer"><button id="button">search</button></div>
@@ -58,13 +82,16 @@
 			var camera, scene, renderer,inix=-800;
 			var player;
 
-			var auto = true;
+			var auto = false;
 
 			var Element = function ( entry ) {
 
 				var dom = document.createElement( 'div' );
 				dom.style.width = '480px';
 				dom.style.height = '360px';
+				dom.setAttribute('id',entry.id.$t.split( ':' ).pop());
+				//dom.setAttribute('src',entry.id.$t.split( ':' ).pop());
+
 
 				var image = document.createElement( 'img' );
 				image.style.position = 'absolute';
@@ -126,6 +153,17 @@
 
 				dom.addEventListener( 'click', function ( event ) {
 
+					
+					details = document.createElement( 'div' );
+					details.style.bottom='100px';
+					details.style.width='50%';
+					details.style.left='50px';
+					details.setAttribute('class', 'ui blue inverted center aligned segment');
+					details.setAttribute('id','details');
+					details.style.background='rgba(1,0,0,1)';
+					details.style.position = 'absolute';
+					//document.body.appendChild(details);
+
 					event.stopPropagation();
 
 					auto = false;
@@ -160,7 +198,17 @@
 					// 	.easing( TWEEN.Easing.Exponential.Out )
 					// 	.start();
 
+					// var sign = object.position.x>0?1:-1;
+
+					// var i=0;
+					// // for (var i =0;i<object.position.x*sign;i++)
+					// // move(sign).delay(100);
+
 					move(object.position.x);
+
+					
+
+					//myVar();
 
 					// new TWEEN.Tween( { value: prev } )
 					// 	.to( { value: 0  }, 2000 )
@@ -173,6 +221,8 @@
 					// 	.easing( TWEEN.Easing.Exponential.Out )
 					// 	.start();
 					//<iframe width="384" height="216" src="//www.youtube.com/embed/bHQqvYy5KYo" frameborder="0" allowfullscreen></iframe>
+
+					//document.body.removeChild(details);
 
 				}, false );
 
@@ -228,7 +278,7 @@
 
 				document.body.addEventListener( 'click', function ( event ) {
 
-					auto = true;
+					//auto = true;
 
 					if ( player !== undefined ) {
 
@@ -241,6 +291,13 @@
 							.to( { x: 0, y: - 25 }, 1500 )
 							.easing( TWEEN.Easing.Exponential.Out )
 							.start();
+					// d = document.getElementById('details');
+					// while(d!==undefined)
+					// {
+					// 	//console.log(d);
+					// 	document.body.removeChild(d);
+					// 	d = document.getElementById('details');
+					// }
 
 				}, false );
 
@@ -288,6 +345,11 @@
 
 				// console.log( entries );
 
+				for (var j = 0 ; j < entries.length ; j++)
+	             {
+	                entries[j].index = j;
+	             }
+
 				for ( var i = 0; i < entries.length; i ++ ) {
 
 					( function ( data, time ) {
@@ -312,7 +374,8 @@
 					var sign = delta >0?1:-1;
 					for(var j=0;j <sign*delta;j++){
 
-					object.position.x-=sign ;
+						object.position.x-=sign ;
+
 						if(object.position.x >= -250 && object.position.x <= 250 && object.position.z <= -600){
 							object.position.z ++;				
 						}
@@ -336,23 +399,25 @@
 						}
 						if(object.position.x >= 1500 || object.position.x <= -1500)
 							object.position.z = -700;
-					/*if ( object.position.z > 0 ) {
+						/*if ( object.position.z > 0 ) {
 
-						object.position.z -= 5000;
+							object.position.z -= 5000;
 
-					} else*/ if ( object.position.x < - 1500 ) {
+						} else*/ if ( object.position.x < - 1500 ) {
 
-						object.position.x += 25050;
+							object.position.x += 25050;
+
+						}
+						if ( object.position.x >  1500 ) {
+
+							object.position.x -= 25050;
+
+						}
+
+						
+
 
 					}
-					if ( object.position.x >  1500 ) {
-
-						object.position.x -= 25050;
-
-					}
-
-
-				}
 
 
 				}
@@ -392,7 +457,161 @@
 
 			}
 
+			function selectVideo(center,radius) {
+
+				for ( var i = 0; i < scene.children.length; i ++ ) {
+
+					var object = scene.children[ i ];
+
+					if(object.position.x>center[0]-radius-100 && object.position.x<center[0]+radius+100 )
+					{
+						console.log(object);
+
+						dom = document.getElementById(object.element.id);
+
+						if ( player !== undefined ) {
+
+						player.parentNode.removeChild( player );
+						player = undefined;
+
+						}
+
+						player = document.createElement( 'iframe' );
+						player.style.position = 'absolute';
+						player.style.width = '480px';
+						player.style.height = '360px';
+						player.style.border = '0px';
+						player.setAttribute('allowFullScreen', '');
+						player.src = 'http://www.youtube.com/embed/' + object.element.id + '?rel=0&autoplay=1&controls=1&showinfo=0';
+						dom.appendChild( player );
+
+						var prev = object.position.z + 400;
+						move(object.position.x);
+
+						break;
+
+
+
+					}	
+					
+				}
+
+
+			}
+
 
 		</script>
+
+		<div id="label" ></div>
+<script type="text/javascript" class="codepen">
+    var riggedHandPlugin;
+    function concatData(id,data)
+    {
+        return id + " : " + data + "<br>";
+    }
+
+
+    var output = document.getElementById('output');
+    var frameString = "", handString = "", fingerString = "";
+
+    var options = { enableGestures: true };
+    var i =0;
+
+    Leap.loop(options,{
+        hand: function(hand){
+            var label = hand.data('label');
+            if (!label){
+                label = document.createElement('label');
+                document.body.appendChild(label);
+                /**
+                 * Here we set the label to show the hand type
+                 */
+                label.innerHTML = hand.type + " hand";
+                hand.data('label', label)
+            }
+            var handMesh = hand.data('riggedHand.mesh');
+            var screenPosition = handMesh.screenPosition(
+                    hand.palmPosition,
+                    riggedHandPlugin.camera
+            );
+            label.style.left = screenPosition.x + 'px';
+            label.style.bottom = screenPosition.y + 'px';
+        },
+        frame: function(frame) {
+
+        	if(i==0)
+        	{
+	        	if(frame.gestures.length>0)
+	        	{
+	        		for(var j=0;j<frame.gestures.length;j++)
+	        			if(frame.gestures[i].type=='circle')
+	        				{
+	        					console.log(frame.gestures[i]);
+
+	        					if(frame.gestures[i].radius<150 && frame.gestures[i].center[1]<200 && frame.gestures[i].center[1]>-200);
+	        					selectVideo(frame.gestures[i].center,frame.gestures[i].radius);
+
+	        					break;
+	        				}
+	        	}
+
+	        	i++;
+	            //console.log(frame);
+	        }
+	        if(i>0)
+	        	i++;
+	        if(i==50)
+	        	i=0;
+
+            frameString = concatData("frame_id", frame.id);
+
+            frameString += concatData("number of hands", frame.hands.length);
+
+            frameString += concatData("number of fingers", frame.fingers.length);
+
+            if (typeof frame.hands[0]  != "undefined")
+            {
+                var handMesh = frame.hands[0].data('riggedHand.mesh');
+                var screenPosition = handMesh.screenPosition(
+                        frame.hands[0].palmPosition,
+                        riggedHandPlugin.camera
+                );
+
+                grab = frame.hands[0].grabStrength ;
+                frameString += concatData("X Coordinate :",screenPosition.x);
+                frameString += concatData("Y Coordinate :",screenPosition.y);
+                frameString += concatData("Z Coordinate :",frame.hands[0].palmPosition[2]);
+                if ( frame.hands[0].palmPosition[0] < -100 && grab>0.5)
+                {
+                    move(10);
+                }
+                if ( frame.hands[0].palmPosition[0] > 100 && grab >0.5 )
+                {
+                    move(-10);
+                }
+            }
+
+            frameString += "<br>";
+
+            $('#output').html(frameString);
+
+        }
+    })
+            .use('riggedHand')
+            .use('handEntry')
+            .on('handLost', function(hand){
+                var label = hand.data('label');
+                if (label){
+                    document.body.removeChild(label);
+                    hand.data({label: undefined});
+                }
+            });
+    riggedHandPlugin = Leap.loopController.plugins.riggedHand;
+
+</script>
+
+<!-- <div id="output"></div> -->
+
+
 	</body>
 </html>

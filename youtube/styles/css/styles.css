@@ -1,0 +1,43 @@
+body,html {
+    background-color : floralwhite ;
+    overflow :auto;
+}
+
+.nav{
+    position:fixed;
+    left:0;
+    top:100px;
+    height: 80%;
+    
+}
+
+.custom-font{
+    font-weight: 800;
+    font-size: large;
+}
+
+.custom-font-light{
+    font-weight: 500;
+    font-size:large;
+}
+
+#grid{
+    position:absolute;
+    left:125px;
+    width:90%;
+    overflow-y:auto;
+    
+}
+
+.custom-width{
+    width : 80%;
+}
+
+.custom-size{
+    width:400px;
+    height:auto;
+}
+
+a{
+    text-decoration: none;
+}
