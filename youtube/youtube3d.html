@@ -320,7 +320,7 @@
 					//ytplayer.mute();
 
 					if ( player !== undefined ) {
-
+                        ytplayer.destroy();
 						player.parentNode.removeChild( player );
 						player = undefined;
 
@@ -531,8 +531,8 @@
 
 
 
-					}	
-					
+					}
+
 				}
 
 
