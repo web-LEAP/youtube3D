@@ -149,7 +149,7 @@ var Element = function ( entry ) {
         button.style.visibility = 'visible';
 
         new TWEEN.Tween( object.position )
-                .to( { y: 0}, 2000)
+                .to( { y: -50}, 2000)
                 .easing( TWEEN.Easing.Exponential.Out )
                 .start();
 
@@ -375,8 +375,7 @@ function onData( event ) {
             setTimeout( function () {
 
                 scene.add( new Element( data ) );
-                console.log(data);
-
+                
             }, time );
 
         } )( entries[ i ], i * 15 );
@@ -390,6 +389,7 @@ function move( delta ) {
     for ( var i = 0; i < scene.children.length; i ++ ) {
 
         var object = scene.children[ i ];
+        //object.position.y = -50 ;
         var sign = delta >0?1:-1;
         for(var j=0;j <sign*delta;j++){
 
