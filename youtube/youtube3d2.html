@@ -582,9 +582,15 @@ function togglePlay() {
             ytplayer.pauseVideo();
         else if (ytplayer.getPlayerState() == 2)
             ytplayer.playVideo();
-
     }
 }
+
+//function setVideoSize(x,y) {
+//    console.log(x,y);
+//    if (ytplayer) {
+//        ytplayer.setSize(x,y);
+//    }
+//}
 
 </script>
 
@@ -673,14 +679,21 @@ function togglePlay() {
                 frameString += concatData("X Coordinate :",screenPosition.x);
                 frameString += concatData("Y Coordinate :",screenPosition.y);
                 frameString += concatData("Z Coordinate :",frame.hands[0].palmPosition[2]);
-                if ( frame.hands[0].palmPosition[0] < -100 && grab>0.5)
+                if (frame.hands.length==2)
                 {
-                    move(-10);
+//                    if(frame.hands[0].grabStrength>0.5 && frame.hands[1].grabStrength>0.5) {
+//                        setVideoSize(Math.abs(frame.hands[0].palmPosition[0]-frame.hands[1].palmPosition[0]),Math.abs(frame.hands[0].palmPosition[1]-frame.hands[1].palmPosition[1]));
+//                    }
                 }
-                if ( frame.hands[0].palmPosition[0] > 100 && grab >0.5 )
-                {
-                    move(10);
-                }
+                    else {
+
+                        if (frame.hands[0].palmPosition[0] < -100 && grab > 0.5) {
+                            move(-10);
+                        }
+                        if (frame.hands[0].palmPosition[0] > 100 && grab > 0.5) {
+                            move(10);
+                        }
+                    }
             }
 
             frameString += "<br>";
