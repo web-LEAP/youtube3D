@@ -4,6 +4,7 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
 		<title>Youtube 3d</title>
+		
 		<script src="jquery.js"></script>
 		<script src="three.js"></script>
 
@@ -73,14 +74,34 @@
 		
 	</head>
 	<body>
-		
+		<script>
+	      // 2. This code loads the IFrame Player API code asynchronously.
+	      var tag = document.createElement('script');
+
+	      tag.src = "https://www.youtube.com/iframe_api";
+	      var firstScriptTag = document.getElementsByTagName('script')[0];
+	      firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+	      // 3. This function creates an <iframe> (and YouTube player)
+	      //    after the API code downloads.
+	      
+	      // function onYouTubeIframeAPIReady() {
+
+	      // 	var id = $('#ytplayer').parent().attr("id");
+	      // 	console.log(id);
+	      //   ytplayer = new YT.Player('ytplayer', {
+	        	
+	      //   });
+	      // }
+
+	      </script>
 
 		<div id="container"></div>
 		<div id="search"><input id="query" type="text" value="Trailer"><button id="button">search</button></div>
 
 		<script>
 			var camera, scene, renderer,inix=-800;
-			var player;
+			var player,ytplayer;
 
 			var auto = false;
 
@@ -181,8 +202,21 @@
 					player.style.height = '360px';
 					player.style.border = '0px';
 					player.setAttribute('allowFullScreen', '');
-					player.src = 'http://www.youtube.com/embed/' + entry.id.$t.split( ':' ).pop() + '?rel=0&autoplay=1&controls=1&showinfo=0';
+					player.setAttribute('id', 'ytplayer');
+					player.src = 'http://www.youtube.com/embed/' + entry.id.$t.split( ':' ).pop() + '?enablejsapi=1&rel=0&autoplay=1&controls=1&showinfo=0';
 					this.appendChild( player );
+
+					  ytplayer = new YT.Player('ytplayer', {
+					  	 videoId: entry.id.$t.split( ':' ).pop() ,
+					  	 // events: {
+					  	 // 	'onReady': onPlayerReady,
+					  	 // }      	
+	      			  });
+
+					// if(ytplayer){
+					// ytplayer.setVolume(0);
+					// }
+					console.log(ytplayer);
 
 					//
 
@@ -229,6 +263,10 @@
 				return object;
 
 			};
+			// function onPlayerReady(){
+			// 	//console.log(this);
+			// 	ytplayer.mute();
+			// }
 
 			init();
 			animate();
@@ -279,6 +317,7 @@
 				document.body.addEventListener( 'click', function ( event ) {
 
 					//auto = true;
+					//ytplayer.mute();
 
 					if ( player !== undefined ) {
 
