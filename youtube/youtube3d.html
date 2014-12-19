@@ -203,7 +203,7 @@
 					player.style.border = '0px';
 					player.setAttribute('allowFullScreen', '');
 					player.setAttribute('id', 'ytplayer');
-					player.src = 'http://www.youtube.com/embed/' + entry.id.$t.split( ':' ).pop() + '?enablejsapi=1&rel=0&autoplay=1&controls=1&showinfo=0';
+					player.src = 'http://www.youtube.com/embed/' + entry.id.$t.split( ':' ).pop() + '?enablejsapi=1&rel=0&autoplay=1&controls=1&showinfo=1';
 					this.appendChild( player );
 
 					  ytplayer = new YT.Player('ytplayer', {
