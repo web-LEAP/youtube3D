@@ -109,10 +109,23 @@
 
 				var dom = document.createElement( 'div' );
 				dom.style.width = '480px';
-				dom.style.height = '360px';
+				dom.style.height = '520px';
 				dom.setAttribute('id',entry.id.$t.split( ':' ).pop());
 				//dom.setAttribute('src',entry.id.$t.split( ':' ).pop());
 
+				var about = document.createElement('p');
+  				about.style.position = 'absolute' ;
+    			about.style.bottom =  0 + 'px' ;
+    			about.style.left =  20 + 'px' ;
+    			about.style.width = '440px';
+    			about.style.height = '100px';
+    			about.style.fontSize = '20px';
+    			about.style.textAlign = 'center' ;
+    			about.style.textWrap = 'unrestricted' ;
+    			about.style.paddingRight= '10px' ;
+    			about.style.paddingLeft= '0px' ;
+    			about.innerHTML = entry.title.$t ;
+    			dom.appendChild(about);
 
 				var image = document.createElement( 'img' );
 				image.style.position = 'absolute';
@@ -152,7 +165,7 @@
 					button.style.visibility = 'visible';
 
 					new TWEEN.Tween( object.position )
-						.to( { y: 0}, 2000)
+						.to( { y: -50}, 2000)
 						.easing( TWEEN.Easing.Exponential.Out )
 						.start();
 
@@ -636,11 +649,11 @@
                 frameString += concatData("Z Coordinate :",frame.hands[0].palmPosition[2]);
                 if ( frame.hands[0].palmPosition[0] < -100 && grab>0.5)
                 {
-                    move(10);
+                    move(-10);
                 }
                 if ( frame.hands[0].palmPosition[0] > 100 && grab >0.5 )
                 {
-                    move(-10);
+                    move(10);
                 }
             }
 
