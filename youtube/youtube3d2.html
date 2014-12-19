@@ -74,13 +74,30 @@
 </head>
 <body>
 
+<script>
+    // 2. This code loads the IFrame Player API code asynchronously.
+    var tag = document.createElement('script');
+    tag.src = "https://www.youtube.com/iframe_api";
+    var firstScriptTag = document.getElementsByTagName('script')[0];
+    firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+    // 3. This function creates an <iframe> (and YouTube player)
+    //    after the API code downloads.
+    // function onYouTubeIframeAPIReady() {
 
+    // 	var id = $('#ytplayer').parent().attr("id");
+    // 	console.log(id);
+    //   ytplayer = new YT.Player('ytplayer', {
+
+    //   });
+    // }
+
+</script>
 <div id="container"></div>
 <div id="search"><input id="query" type="text" value="Trailer"><button id="button">search</button></div>
 
 <script>
 var camera, scene, renderer,inix=-800;
-var player;
+var player, ytplayer;
 
 var auto = false;
 
@@ -169,8 +186,9 @@ var Element = function ( entry ) {
         auto = false;
 
         if ( player !== undefined ) {
-
             player.parentNode.removeChild( player );
+//            ytplayer.destroy();
+
             player = undefined;
 
         }
@@ -181,10 +199,21 @@ var Element = function ( entry ) {
         player.style.height = '360px';
         player.style.border = '0px';
         player.setAttribute('allowFullScreen', '');
-        player.src = 'http://www.youtube.com/embed/' + entry.id.$t.split( ':' ).pop() + '?rel=0&autoplay=1&controls=1&showinfo=0';
+        player.setAttribute('id', 'ytplayer');
+        player.src = 'http://www.youtube.com/embed/' + entry.id.$t.split( ':' ).pop() + '?enablejsapi=1&rel=0&autoplay=1&controls=1&showinfo=0';
         this.appendChild( player );
 
-        //
+        ytplayer = new YT.Player('ytplayer', {
+            videoId: entry.id.$t.split( ':' ).pop()
+            // events: {
+            // 	'onReady': onPlayerReady,
+            // }
+        });
+
+        // if(ytplayer){
+        // ytplayer.setVolume(0);
+        // }
+        console.log(ytplayer);
 
         var prev = object.position.z + 400;
 
@@ -226,7 +255,7 @@ var Element = function ( entry ) {
 
     }, false );
 
-    return object;
+     return object;
 
 };
 
@@ -459,19 +488,30 @@ function animate() {
 
 function selectVideo(location) {
 
-    for ( var i = 0; i < scene.children.length; i ++ ) {
+    for (var i = 0; i < scene.children.length; i++) {
 
-        var object = scene.children[ i ];
+        var object = scene.children[i];
 
-        if(location[0]<(object.position.x+250) && location[0]>(object.position.x-250))
-        {
+        if (location[0] < (object.position.x + 250) && location[0] > (object.position.x - 250)) {
             console.log(object);
 
+//            details = document.createElement( 'div' );
+//            details.style.bottom='100px';
+//            details.style.width='50%';
+//            details.style.left='50px';
+//            details.setAttribute('class', 'ui blue inverted center aligned segment');
+//            details.setAttribute('id','details');
+//            details.style.background='rgba(1,0,0,1)';
+//            details.style.position = 'absolute';
+//            document.body.appendChild(details);
+
+
+            auto = false;
             dom = document.getElementById(object.element.id);
-
             if ( player !== undefined ) {
-
                 player.parentNode.removeChild( player );
+            //    ytplayer.destroy();
+
                 player = undefined;
 
             }
@@ -482,23 +522,75 @@ function selectVideo(location) {
             player.style.height = '360px';
             player.style.border = '0px';
             player.setAttribute('allowFullScreen', '');
-            player.src = 'http://www.youtube.com/embed/' + object.element.id + '?rel=0&autoplay=1&controls=1&showinfo=0';
-            dom.appendChild( player );
+            player.setAttribute('id', 'ytplayer');
+            player.src = 'http://www.youtube.com/embed/' + object.element.id + '?enablejsapi=1&rel=0&autoplay=1&controls=1&showinfo=0';
+            dom.appendChild(player);
+           // this.appendChild( player );
+
+            ytplayer = new YT.Player('ytplayer', {
+                videoId: object.element.id
+                // events: {
+                // 	'onReady': onPlayerReady,
+                // }
+            });
+
+            // if(ytplayer){
+            // ytplayer.setVolume(0);
+            // }
+            console.log(ytplayer);
 
             var prev = object.position.z + 400;
+
+            // new TWEEN.Tween( object.position )
+            // 	.to( { z:object.position.z+250 }, 1500 )
+            // 	.easing( TWEEN.Easing.Exponential.Out )
+            // 	.start();
+
+            // new TWEEN.Tween( camera.position )
+            // 	.to( { y: object.position.y -250 }, 1500 )
+            // 	.easing( TWEEN.Easing.Exponential.Out )
+            // 	.start();
+
+            // var sign = object.position.x>0?1:-1;
+
+            // var i=0;
+            // // for (var i =0;i<object.position.x*sign;i++)
+            // // move(sign).delay(100);
+
             move(object.position.x);
 
-            break;
 
 
 
         }
 
     }
+}
+function toggleMute() {
+    if (ytplayer) {
+       // console.log(ytplayer);
+        if (ytplayer.isMuted())
+            ytplayer.unMute();
+        else
+            ytplayer.mute();
 
-
+    }
+}
+function togglePlay() {
+    if (ytplayer) {
+        if (ytplayer.getPlayerState() == 1)
+            ytplayer.pauseVideo();
+        else if (ytplayer.getPlayerState() == 2)
+            ytplayer.playVideo();
+    }
 }
 
+//function setVideoSize(x,y) {
+//    console.log(x,y);
+//    if (ytplayer) {
+//        ytplayer.setSize(x,y);
+//    }
+//}
 
 </script>
 
@@ -538,13 +630,34 @@ function selectVideo(location) {
             label.style.bottom = screenPosition.y + 'px';
         },
         frame: function(frame) {
-            if (typeof frame.hands[0]  != "undefined")
-            {
-            if ( frame.hands[0].palmPosition[2] < -50)
-            {
-                selectVideo(frame.hands[0].palmPosition);
+            if(i==0) {
+            if (typeof frame.hands[0]  != "undefined") {
+                if (frame.hands[0].palmPosition[2] < -50) {
+                    selectVideo(frame.hands[0].palmPosition);
+                }
+                if (frame.hands[0].pinchStrength > 0.95) {
+                    if(frame.hands[0].type == 'right')
+                    toggleMute();
+                    if(frame.hands[0].type == 'left')
+                    togglePlay();
+                }
+                if(frame.hands.length==2) {
+                    if (frame.hands[1].pinchStrength > 0.95) {
+                        if(frame.hands[1].type == 'right')
+                            toggleMute();
+                        if(frame.hands[1].type == 'left')
+                            togglePlay();
+                    }
+
+                }
             }
             }
+
+            if(i>=0)
+                i++;
+            if(i==30)
+                i=0;
+
 
 
 
@@ -566,14 +679,21 @@ function selectVideo(location) {
                 frameString += concatData("X Coordinate :",screenPosition.x);
                 frameString += concatData("Y Coordinate :",screenPosition.y);
                 frameString += concatData("Z Coordinate :",frame.hands[0].palmPosition[2]);
-                if ( frame.hands[0].palmPosition[0] < -100 && grab>0.5)
+                if (frame.hands.length==2)
                 {
-                    move(10);
+//                    if(frame.hands[0].grabStrength>0.5 && frame.hands[1].grabStrength>0.5) {
+//                        setVideoSize(Math.abs(frame.hands[0].palmPosition[0]-frame.hands[1].palmPosition[0]),Math.abs(frame.hands[0].palmPosition[1]-frame.hands[1].palmPosition[1]));
+//                    }
                 }
-                if ( frame.hands[0].palmPosition[0] > 100 && grab >0.5 )
-                {
-                    move(-10);
-                }
+                    else {
+
+                        if (frame.hands[0].palmPosition[0] < -100 && grab > 0.5) {
+                            move(-10);
+                        }
+                        if (frame.hands[0].palmPosition[0] > 100 && grab > 0.5) {
+                            move(10);
+                        }
+                    }
             }
 
             frameString += "<br>";
