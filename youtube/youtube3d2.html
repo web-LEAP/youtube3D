@@ -305,6 +305,13 @@ function init() {
 
     document.body.addEventListener( 'mousewheel', onMouseWheel, false );
 
+    document.body.addEventListener( 'mouseover', function ( event ) {
+                    //console.log('fired');
+                    setTimeout(function(){
+                        $("#query").focus();
+                    }, 1);
+                },false);
+
     document.body.addEventListener( 'click', function ( event ) {
 
         //auto = true;

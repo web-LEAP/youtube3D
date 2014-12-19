@@ -218,6 +218,11 @@
 					// }
 					console.log(ytplayer);
 
+					// ytplayer.addEventListener('click', function (event) {
+					// 	console.log('fired');
+					// 	$('body').focus();
+					// },false);
+
 					//
 
 					var prev = object.position.z + 400;
@@ -257,6 +262,8 @@
 					//<iframe width="384" height="216" src="//www.youtube.com/embed/bHQqvYy5KYo" frameborder="0" allowfullscreen></iframe>
 
 					//document.body.removeChild(details);
+
+					//$('canvas').focus();
 
 				}, false );
 
@@ -314,13 +321,20 @@
 
 				document.body.addEventListener( 'mousewheel', onMouseWheel, false );
 
+				document.body.addEventListener( 'mouseover', function ( event ) {
+					//console.log('fired');
+					setTimeout(function(){
+			            $("#query").focus();
+			        }, 1);
+				},false);
+
 				document.body.addEventListener( 'click', function ( event ) {
 
 					//auto = true;
 					//ytplayer.mute();
 
 					if ( player !== undefined ) {
-                        ytplayer.destroy();
+                        //ytplayer.destroy();
 						player.parentNode.removeChild( player );
 						player = undefined;
 
