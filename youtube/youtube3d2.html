@@ -440,19 +440,15 @@ function move( delta ) {
             if(object.position.x >= -750 && object.position.x <= -250 && object.position.z >= -650){
                 object.position.z --;
             }
-            //if(object.position.x <=-725 && object.position.x >= -775 && object.position.z >= -700 && object.position.z <= -650){
-            //	object.position.z --;
-            //}
+            if(object.position.x >= 750 && object.position.z >= -700){
+                object.position.z --;
+            }
             if(object.position.x <= -750 && object.position.z >= -700){
                 object.position.z --;
             }
             if(object.position.x >= 1500 || object.position.x <= -1500)
                 object.position.z = -700;
-            /*if ( object.position.z > 0 ) {
-
-             object.position.z -= 5000;
-
-             } else*/ if ( object.position.x < - 1500 ) {
+            if ( object.position.x < - 1500 ) {
 
                 object.position.x += 25050;
 
