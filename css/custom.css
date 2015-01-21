@@ -7,3 +7,7 @@ body {
 .smallfont {
     font-size: 14pt !important;
 }
+.evensmaller {
+    font-size: 10pt !important;
+    color: #9b9b9b !important;
+}
