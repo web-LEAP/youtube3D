@@ -1,0 +1,9 @@
+body {
+    background-color: #EEE;
+}
+.customfont {
+    letter-spacing: 0.5pt; !important;
+}
+.smallfont {
+    font-size: 14pt !important;
+}
